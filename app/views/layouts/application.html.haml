@@ -1,0 +1,22 @@
+!!!
+%html
+  %head
+    %meta{ content: 'width=device-width, initial-scale=1.0', name: 'viewport' }
+      %title= html_title
+      %meta{ content: html_description, name: 'description' }
+        = stylesheet_link_tag 'application', media: 'all'
+        = csrf_meta_tags
+        = yield(:head)
+  %body{ class: body_classes.join(' ') }
+    .wrapper
+      = render 'layouts/navigation'
+      #main{ role: 'main' }
+        - if use_container?
+          .container= yield
+        - else
+          = yield
+    %footer
+      .container= render 'layouts/footer'
+    = javascript_include_tag 'application'
+    = yield :js
+    = google_analytics

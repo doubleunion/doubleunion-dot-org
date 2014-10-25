@@ -1,0 +1,56 @@
+@import "mixins";
+body {
+  padding-top: 0px;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 26px;
+  color: #000;
+  font-family: "Open Sans", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Bree Serif", sans-serif;
+  font-weight: 800;
+  line-height: 1.4;
+}
+
+strong {
+  font-weight: 800;
+}
+
+p {
+  margin: 17px 0;
+}
+
+.navbar { margin-bottom: 0; }
+
+fieldset {
+  margin-bottom: 10px;
+  legend {
+    font-size: inherit;
+    border-bottom: 0;
+    margin-bottom: 0;
+  }
+}
+
+.btn-primary {
+  background-color: #d23876;
+  border-color: #be2361;
+  &:hover {
+    border-color: #be2361;
+    background-color: #be2361;
+  }
+}
+
+.btn {
+  margin: 10px 0;
+}
+
+h4 {
+  font-size: 20px;
+  margin: 20px 0 0 0;
+}
+
+.modal-backdrop, .modal-backdrop.fade.in {
+  opacity: .7;
+}
