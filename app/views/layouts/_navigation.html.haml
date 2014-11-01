@@ -13,12 +13,4 @@
         %li= external_link_to 'Twitter', TWITTER_URL
       %ul.nav.navbar-nav.pull-right
         %li{'data-toggle' => 'modal', 'data-target' => '#log_in'}
-          = link_to "Log In", "#"
-
-.modal#log_in
-  .modal-dialog
-    .modal-content
-      .modal-body
-        %button.close{"aria-hidden" => "true", "data-dismiss" => "modal", type: "button"} ×
-        = link_to "Log In with GitHub", "#", class: "btn btn-primary"
-        = link_to "Log In with Google", "#", class: "btn btn-primary"
+          = link_to "Log In", "#{DU_APP_URL}/login"
