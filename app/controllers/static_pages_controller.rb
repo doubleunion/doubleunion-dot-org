@@ -31,6 +31,6 @@ class StaticPagesController < ApplicationController
   private
 
   def configurations
-    JSON.load(open("https://www.doubleunion.org/configurations.json"))
+    JSON.load(open("#{DU_APP_URL}/configurations.json"))
   end
 end
