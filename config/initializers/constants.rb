@@ -1,4 +1,4 @@
-DU_APP_URL           = "https://www.doubleunion.org"
+DU_APP_URL           = ENV["APP_URL"] || "https://app.doubleunion.org"
 
 TWITTER_USERNAME     = 'doubleunionsf'
 TWITTER_URL          = "https://twitter.com/#{TWITTER_USERNAME}"
