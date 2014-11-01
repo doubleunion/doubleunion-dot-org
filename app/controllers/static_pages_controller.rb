@@ -6,8 +6,13 @@ class StaticPagesController < ApplicationController
   end
 
   def membership
-    @public_members = Member.all
-    @accepting_applications = configurations["accepting_applications"]
+    begin
+      @accepting_applications = configurations["accepting_applications"]
+      @public_members = Member.all
+    rescue
+      @public_members = []
+      @accepting_applications = false
+    end
   end
 
   def policies

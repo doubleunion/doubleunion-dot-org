@@ -21,3 +21,10 @@ group :production do
   gem 'pg'
   gem 'rails_12factor'
 end
+
+group :test do
+  gem 'rspec-rails'
+  gem 'capybara'
+  gem 'webmock'
+  gem 'launchy'
+end
