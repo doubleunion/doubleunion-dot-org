@@ -8,4 +8,7 @@ Rails.application.routes.draw do
   get 'supporters',       to: 'static_pages#supporters'
   get 'visit',            to: 'static_pages#visit'
   get 'base_assumptions', to: 'static_pages#base_assumptions'
+
+  # For all those browser autocompletes still pointing at the www domain
+  get '*path' => redirect(DU_APP_URL) if Rails.env.production?
 end
