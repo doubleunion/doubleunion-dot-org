@@ -33,6 +33,9 @@ class StaticPagesController < ApplicationController
   def base_assumptions
   end
 
+  def leadership
+  end
+
   private
 
   def configurations
