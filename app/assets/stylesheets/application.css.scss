@@ -47,9 +47,19 @@ footer {
 }
 
 .navbar {
+  padding: 3px 0 1px 0;
+
   ul li span.non-link {
     display: block;
     padding: 15px 10px;
+  }
+}
+
+.navbar-brand {
+  padding: 0 5px 0 0;
+
+  img {
+    width: 48px;
   }
 }
 
