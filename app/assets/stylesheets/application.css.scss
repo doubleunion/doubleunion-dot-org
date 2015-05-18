@@ -70,3 +70,20 @@ footer {
     margin: 8px 20px 4px 0;
   }
 }
+
+.tool {
+  width: 280px;
+  float: left;
+  margin-right: 80px;
+  margin-bottom: 20px;
+  text-align: center;
+
+  &:nth-child(2n) {
+    margin-right: 0;
+  }
+  
+  h4 {
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+}
