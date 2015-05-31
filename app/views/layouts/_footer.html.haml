@@ -6,7 +6,8 @@
   %li= link_to_unless_current 'Press', press_path
   %li= link_to_unless_current 'Support', support_path
   %li= link_to_unless_current 'Base Assumptions', base_assumptions_path
-  
+  %li= external_link_to 'Twitter', TWITTER_URL
+
 .copyright
   &copy;
   = Time.now.year
