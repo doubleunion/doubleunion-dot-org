@@ -7,7 +7,7 @@ class StaticPagesController < ApplicationController
 
   def membership
     begin
-      @accepting_applications = configurations["accepting_applications"]
+      @accepting_applications = configurations["configurations"]["accepting_applications"]
       @public_members = Member.all
     rescue
       @public_members = []
