@@ -47,8 +47,12 @@
     or joining our #{link_to "general interest mailing list", MAILING_LIST_GENERAL}.
 
   %h3 Membership
-  %p
-    Double Union will be accepting new members starting DATE. Members join through an application and voting process. If you're interested in being part of Double Union but aren't sure whether you're “good enough,” please apply. Don't let #{ link_to "impostor syndrome", "http://geekfeminism.wikia.com/wiki/Impostor_syndrome" } stop you! 
+  - if @accepting_applications
+    %p
+      Double Union is accepting new members! If you're interested in being part of Double Union, please apply. Don't let #{ link_to "impostor syndrome", "http://geekfeminism.wikia.com/wiki/Impostor_syndrome" } stop you!
+  - else
+    %p
+      Members join through an application and voting process. If you're interested in being part of Double Union but aren't sure whether you're “good enough,” please apply. Don't let #{ link_to "impostor syndrome", "http://geekfeminism.wikia.com/wiki/Impostor_syndrome" } stop you!
 
   %p
     Check out our #{ link_to "membership page", membership_path } to learn more.
