@@ -6,8 +6,8 @@
       %p
         Our mission is to create a community workshop where women can work on
         projects in a comfortable, welcoming environment.
-      = link_to 'Join us', membership_path, class: 'btn btn-primary btn-lg'
-      = link_to 'Support us', support_path, class: 'btn btn-default btn-lg'
+      = link_to 'Learn about Membership', membership_path, class: 'btn btn-primary btn-lg'
+      = link_to 'Support Double Union', support_path, class: 'btn btn-default btn-lg'
 
 .container
   %h3 Double Union is a space for your projects
@@ -45,6 +45,13 @@
     following us on Twitter at
     #{external_link_to "@#{TWITTER_USERNAME}", TWITTER_URL},
     or joining our #{link_to "general interest mailing list", MAILING_LIST_GENERAL}.
+
+  %h3 Membership
+  %p
+    Double Union is accepting new members! If you're interested in being part of Double Union,” please apply. Don't let #{ link_to "impostor syndrome", "http://geekfeminism.wikia.com/wiki/Impostor_syndrome" } stop you! 
+
+  %p
+    Check out our #{ link_to "membership page", membership_path } to learn more.
 
   %h3 Want to Support Double Union?
   %p

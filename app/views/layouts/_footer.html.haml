@@ -1,11 +1,14 @@
 %ul
-  %li= link_to_unless_current 'Press', press_path
+  %li= link_to_unless_current 'About', about_path
   %li= link_to_unless_current 'Policies', policies_path
   %li= link_to_unless_current 'Visiting', visit_path
-  %li= link_to_unless_current 'Members', membership_path
+  %li= link_to_unless_current 'Membership', membership_path
+  %li= link_to_unless_current 'Press', press_path
   %li= link_to_unless_current 'Support', support_path
   %li= link_to_unless_current 'Base Assumptions', base_assumptions_path
-  %li
-    &copy;
-    = Time.now.year
-    Double Union
+  %li= external_link_to 'Twitter', TWITTER_URL
+
+.copyright
+  &copy;
+  = Time.now.year
+  Double Union

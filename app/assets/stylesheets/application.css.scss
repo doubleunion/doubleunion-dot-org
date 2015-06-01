@@ -32,7 +32,7 @@
   margin-top: 20px;
 }
 
-footer ul {
+footer {
   text-align: center;
   margin-top: 50px;
   margin-left: 0;
@@ -47,8 +47,53 @@ footer ul {
 }
 
 .navbar {
+  padding: 3px 0 1px 0;
+
   ul li span.non-link {
     display: block;
     padding: 15px 10px;
+  }
+}
+
+.navbar-brand {
+  padding: 0 5px 0 0;
+
+  img {
+    width: 48px;
+  }
+}
+
+.press {
+  margin-bottom: 20px;
+
+  .attribution {
+    font-style: italic;
+  }
+}
+
+.leader {
+  margin-bottom: 45px;
+
+  img {
+    float: left;
+    width: 106px;
+    margin: 8px 20px 4px 0;
+  }
+}
+
+.tool {
+  width: 280px;
+  float: left;
+  margin-right: 80px;
+  margin-bottom: 20px;
+  text-align: center;
+
+  &:nth-child(2n) {
+    margin-right: 0;
+  }
+  
+  h4 {
+    margin-top: 0;
+    margin-bottom: 20px;
   }
 }
