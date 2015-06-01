@@ -21,12 +21,12 @@ describe "visiting all the pages" do
 
   it "works" do
     visit root_path
-    click_link "Join us"
+    click_link "Learn about Membership"
     expect(page).to have_content "Membership benefits and responsibilities"
 
     go_home
 
-    click_link "Support us"
+    click_link "Support Double Union"
     expect(page).to have_content "Make a donation"
 
     go_home
@@ -42,7 +42,7 @@ describe "visiting all the pages" do
     go_home
 
     click_link "Policies"
-    expect(page).to have_content "All Double Union events and the Double Union space have an anti-harassment policy"
+    expect(page).to have_content "Code of Conduct & Anti-Harassment Policy"
 
     go_home
 
@@ -51,7 +51,9 @@ describe "visiting all the pages" do
 
     go_home
 
-    click_link "Members"
+    within(".navbar") do
+      click_link "Membership"
+    end
     expect(page).to have_content "New members join through an application and voting process"
 
     go_home
@@ -62,11 +64,11 @@ describe "visiting all the pages" do
     go_home
 
     click_link "Base Assumptions"
-    expect(page).to have_content "Things to keep in mind at Double Union"
+    expect(page).to have_content "General things to keep in mind"
   end
 end
 
 def go_home
-  click_link "Double Union"
+  click_link "#logo"
   expect(page).to have_content "Double Union is a hacker/maker space for women in San Francisco."
 end
