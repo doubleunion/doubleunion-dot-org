@@ -47,7 +47,7 @@ describe "visiting all the pages" do
     go_home
 
     click_link "Visiting"
-    expect(page).to have_content "We are located on Valencia Street"
+    expect(page).to have_content "We are located"
 
     go_home
 
