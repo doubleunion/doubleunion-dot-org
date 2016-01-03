@@ -38,17 +38,15 @@
     or age.
   %p
     You can find out about upcoming events (and learn more about us) on #{link_to 'our blog', TUMBLR_URL},
-    following us on Twitter at
-    #{external_link_to "@#{TWITTER_USERNAME}", TWITTER_URL},
-    or joining our #{link_to "general interest mailing list", MAILING_LIST_GENERAL}.
+    following us on Twitter at #{external_link_to "@#{TWITTER_USERNAME}", TWITTER_URL}, or joining our #{link_to "general interest mailing list", MAILING_LIST_GENERAL}.
 
   %h3 Membership
   - if @accepting_applications
     %p
-      Double Union is accepting new members! If you're interested in being part of Double Union, please apply. Don't let #{ link_to "impostor syndrome", "http://geekfeminism.wikia.com/wiki/Impostor_syndrome" } stop you!
+      Double Union is accepting new members! Members join through an application and voting process. If you're interested in being part of Double Union, please apply.
   - else
     %p
-      Members join through an application and voting process. If you're interested in being part of Double Union but aren't sure whether you're “good enough,” please apply. Don't let #{ link_to "impostor syndrome", "http://geekfeminism.wikia.com/wiki/Impostor_syndrome" } stop you!
+      Members join through an application and voting process. If you're interested in being part of Double Union, please subscribe to #{link_to 'our blog', TUMBLR_URL}, #{external_link_to "Twitter", TWITTER_URL}, or #{link_to "general interest mailing list", MAILING_LIST_GENERAL} to receive an announcement when we reopen membership applications.
 
   %p
     Check out our #{ link_to "membership page", membership_path } to learn more.
