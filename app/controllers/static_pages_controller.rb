@@ -24,9 +24,6 @@ class StaticPagesController < ApplicationController
   def support
   end
 
-  def supporters
-  end
-
   def visit
   end
 

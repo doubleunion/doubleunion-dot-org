@@ -31,11 +31,6 @@ describe "visiting all the pages" do
 
     go_home
 
-    click_link "our supporters"
-    expect(page).to have_content "We would love your support in creating"
-
-    go_home
-
     click_link "Press"
     expect(page).to have_content "If you are a member of the press"
 

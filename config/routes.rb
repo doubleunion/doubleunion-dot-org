@@ -5,7 +5,6 @@ Rails.application.routes.draw do
   get 'policies',         to: 'static_pages#policies'
   get 'press',            to: 'static_pages#press'
   get 'support',          to: 'static_pages#support'
-  get 'supporters',       to: 'static_pages#supporters'
   get 'visit',            to: 'static_pages#visit'
   get 'base_assumptions', to: 'static_pages#base_assumptions'
   get 'about',            to: 'static_pages#about'
