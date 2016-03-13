@@ -1,3 +1,6 @@
+- if @accepting_applications
+  %p.text-center
+    Double Union is currently accepting applications for membership! Learn more on the #{ link_to "membership page", membership_path, class: "alert-link" }.
 .jumbotron
   .container
     .jumbotron-content
@@ -6,7 +9,8 @@
       %p
         Our mission is to create a community workshop where women can work on
         projects in a comfortable, welcoming environment.
-      = link_to 'Learn about Membership', membership_path, class: 'btn btn-primary btn-lg'
+      - button_text = @accepting_applications ? 'Apply for Membership' : 'Learn about Membership'
+      = link_to button_text, membership_path, class: 'btn btn-primary btn-lg'
       = link_to 'Support Double Union', support_path, class: 'btn btn-default btn-lg'
 
 .container
