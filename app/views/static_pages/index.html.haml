@@ -38,7 +38,7 @@
     member. Guests may be any gender or age.
   %p
     You can find out about upcoming events (and learn more about us) on #{link_to 'our blog', TUMBLR_URL},
-    following us on Twitter at #{external_link_to "@#{TWITTER_USERNAME}", TWITTER_URL}, or joining our #{link_to "general interest mailing list", MAILING_LIST_GENERAL}. (Note: By clicking on the mailing list link, you will be redirected to our Google Groups page. Click "Join group" to get emails.)
+    following us on Twitter at #{external_link_to "@#{TWITTER_USERNAME}", TWITTER_URL}, #{external_link_to "Facebook", FACEBOOK_URL}, #{external_link_to "Instagram", INSTAGRAM_URL}, or joining our #{link_to "general interest mailing list", MAILING_LIST_GENERAL}. (Note: By clicking on the mailing list link, you will be redirected to our Google Groups page. Click "Join group" or "Subscribe to this group" to get emails.)
 
   %h3 Membership
   - if @accepting_applications
@@ -46,7 +46,7 @@
       Double Union is accepting new members! Members join through an application and voting process. If you're interested in being part of Double Union, please apply.
   - else
     %p
-      Members join through an application and voting process. If you're interested in being part of Double Union, please subscribe to #{link_to 'our blog', TUMBLR_URL}, #{external_link_to "Twitter", TWITTER_URL}, or #{link_to "general interest mailing list", MAILING_LIST_GENERAL} to receive an announcement when we reopen membership applications. (Note: By clicking on the mailing list link, you will be redirected to our Google Groups page. Click "Join group" to get emails.)
+      Members join through an application and voting process. If you're interested in being part of Double Union, please subscribe to #{link_to 'our blog', TUMBLR_URL}, #{external_link_to "Twitter", TWITTER_URL}, or #{link_to "general interest mailing list", MAILING_LIST_GENERAL} to receive an announcement when we reopen membership applications. (Note: By clicking on the mailing list link, you will be redirected to our Google Groups page. Click "Join group" or "Subscribe to this group" to get emails.)
 
   %p
     Check out our #{ link_to "membership page", membership_path } to learn more.
