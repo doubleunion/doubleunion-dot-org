@@ -41,7 +41,9 @@ describe "visiting all the pages" do
 
     go_home
 
-    click_link "Visiting"
+    within(".navbar") do
+      click_link "Visiting"
+    end
     expect(page).to have_content "We are located"
 
     go_home
