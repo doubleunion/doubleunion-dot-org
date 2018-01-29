@@ -11,7 +11,7 @@ module ApplicationHelper
     if content_for?(:title)
       yield(:title)
     else
-      "Double Union | A hacker/maker space for women in San Francisco"
+      "Double Union | A hacker/maker space for women and non-binary people in San Francisco"
     end
   end
 
@@ -19,7 +19,7 @@ module ApplicationHelper
     if content_for?(:description)
       yield(:description)
     else
-      "A hacker/maker space for women in San Francisco"
+      "A hacker/maker space for women and non-binary people in San Francisco"
     end
   end
 
