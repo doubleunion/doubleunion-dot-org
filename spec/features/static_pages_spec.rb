@@ -67,5 +67,5 @@ end
 
 def go_home
   click_link "#logo"
-  expect(page).to have_content "Double Union is a hacker/maker space for women in San Francisco."
+  expect(page).to have_content "Double Union is a hacker/maker space for women and non-binary people in San Francisco."
 end
