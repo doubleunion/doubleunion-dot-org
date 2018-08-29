@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    {%- if site.accepting_applications -%}
+      <p class='home-applications-open'>
+        Double Union is accepting applications for membership through February 11th! Learn more on the <a href="{{ 'membership' | absolute_url }}">membership page</a>.
+      </p>
+    {%- endif -%}
+
+    <div class='home-banner'>
+      <div class='home-banner-content'>
+        <h2>
+          Double Union is a hacker/maker space for women and non-binary people in San Francisco.
+        </h2>
+        <p>
+          Our mission is to be a community workshop where women and non-binary people can work on
+          projects in a comfortable, welcoming environment.
+        </p>
+        <div class='home-banner-buttons'>
+          <a class='btn btn-primary btn-lg' href='{{ 'membership' | absolute_url }}'>
+            {%- if site.accepting_application -%}
+              Apply for Membership
+            {%- else -%}
+              Learn about Membership
+            {%- endif -%}
+          </a>
+          <a class='btn btn-default btn-lg' href='{{ 'support' | absolute_url }}'>Support Double Union</a>
+        </div>
+      </div>
+    </div>
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper home">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
