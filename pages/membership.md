@@ -33,7 +33,7 @@ To apply for Double Union membership, you'll start by authenticating with GitHub
 
 Double Union welcomes members with a broad variety of interests, skills, identities, backgrounds, and histories. What we have in common is a [set of values (base assumptions)]({{ 'base_assumptions' | absolute_url }}) and an interest in supporting each other and Double Union. We want to accept more members who share our values and our commitment to building a safer space together.
 
-To keep the focus on a great space for women and non-binary people (trans, cis, queer, straight, and not-fitting-into-those-labels/other), all members must identify as a woman or non-binary person in a way that is significant to them. Members must also be old enough to carry out any responsibilities. Guests of members may be any gender or age. We specifically encourage bringing (supervised) children to the space.
+To keep the focus on a great space for women and nonbinary people (trans, cis, queer, straight, and not-fitting-into-those-labels/other), all members must identify as a woman or nonbinary person in a way that is significant to them. Members must also be old enough to carry out any responsibilities. Guests of members may be any gender or age. We specifically encourage bringing (supervised) children to the space.
 
 ### How do members use the space?
 
@@ -53,7 +53,7 @@ This is the default type of membership, but most members choose to become key me
 
 * Use the space when a key member is present
 * Store your projects in the space (within reason)
-* Bring guests who identify as a woman or non-binary person in a way that is significant to them
+* Bring guests who identify as a woman or nonbinary person in a way that is significant to them
 
 #### Key members
 
