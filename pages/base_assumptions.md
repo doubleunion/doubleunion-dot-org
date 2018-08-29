@@ -16,7 +16,7 @@ We try to make the culture at Double Union more welcoming than the world at larg
 * [Meritocracy is a joke](http://www.garann.com/dev/2012/you-keep-using-that-word/)
 * [Intersectionality](http://geekfeminism.wikia.com/wiki/Intersectionality) is super important (credit: Kimberlé Crenshaw)
 * Classism is not okay
-* Prioritizing women and non-binary people and our needs is perfectly awesome and needs no excuse
+* Prioritizing women and nonbinary people and our needs is perfectly awesome and needs no excuse
 * If you get called out on something, apologize and learn from it
 * It’s okay to disagree, not okay to blame self or others
 * Respect people’s gender pronouns
