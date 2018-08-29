@@ -1,0 +1,67 @@
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Double Union
+description: A hacker/maker space for women and non-binary people in San Francisco.
+
+# Uncomment the below line when applications are open
+# TODO: write some js to fetch from https://app.doubleunion.org/configurations,
+# but for now this is probably okay?
+# accepting_applications: true
+
+logo_path: /assets/images/double_union_logo.png
+
+header_pages:
+  - pages/membership.md
+  - pages/blog.html
+  - pages/about.md
+  - pages/visit.md
+
+footer_pages:
+  - pages/about.md
+  - pages/policies.md
+  - pages/visit.md
+  - pages/membership.md
+  - pages/press.md
+  - pages/support.md
+  - pages/base_assumptions.md
+
+emails:
+  press: press@doubleunion.org
+  paypal: paypal@doubleunion.org
+  membership: membership@doubleunion.org
+  join: join@doubleunion.org
+  conduct: conduct@doubleunion.org
+
+twitter_username: '@doubleunionsf'
+
+urls:
+  app: https://app.doubleunion.org
+
+  twitter: https://twitter.com/doubleunionsf
+  tumblr: https://doubleunion.tumblr.com
+  instagram: https://www.instagram.com/doubleunionsf
+  facebook: https://www.facebook.com/doubleunion
+
+  github_site: https://github.com/doubleunion/doubleunion-dot-org
+  github_arooo: https://github.com/doubleunion/arooo
+
+  mailing_list: https://groups.google.com/a/doubleunion.org/forum/#!forum/public
+
+google_analytics: UA-47411942-1
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - old/

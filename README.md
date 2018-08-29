@@ -1,25 +1,32 @@
-## DU's website, a little Rails app.
-
-This app is mostly static pages, with just a little bit of dynamic-ness in calling the DU app for the list of members and the status of whether or not we're accepting applications. If you want to make a change to text on http://doubleunion.org, you're in the right place!
+## DU's website
 
 ## Development setup
 
-If you are new to Rails, follow the [RailsBridge Installfest instructions](http://installfest.railsbridge.org/installfest/) for getting your environment set up.
-
 0. Fork the repo (click the Fork button above), and clone your fork to your local machine. [Here's a GitHub tutorial](https://help.github.com/articles/fork-a-repo/) about how to do so.
 
-1. Standard Rails app setup
-    * `rake db:create`
-    * `rake db:migrate`
-    * `rake db:test:prepare`
+1. Check whether you have ruby 2.1.0 or higher installed by running `ruby --version` in your terminal
 
-1. `cp config/secrets.example.yml config/secrets.yml`
+2. If you don’t have ruby 2.1.0 or higher installed, follow the instructions [here](https://www.ruby-lang.org/en/downloads/)
 
-## Specs
+3. Install Bundler (if you don’t have it already installed) 
 
-If you add an additional page, add it to the `static_pages` spec. 
+```
+gem install bundler
+```
 
-Make sure `bundle exec rspec` passes before pushing your changes.
+4. Install dependencies 
+
+```
+bundle install
+```
+
+5. Run the jekyll server 
+
+```
+bundle exec jekyll serve
+```
+
+6. Load up the page in your browser and begin editing! By default the site will run at `localhost:4000`
 
 ## Contributing
 
