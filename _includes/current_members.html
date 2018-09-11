@@ -1,63 +1,44 @@
-<script>
-  var req = new XMLHttpRequest();
-  req.overrideMimeType("application/json");
-  req.open('GET', 'https://app.doubleunion.org/public_members', true);
-  req.onload = e => {
-    var jsonResponse = JSON.parse(req.responseText);
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript">
+  $.get('https://app.doubleunion.org/public_members', function(response) {
+    var currentMembers = $('.current-members');
 
-    var currentMembers = document.getElementById('current-members');
+    for (var i = 0; i < response.length; i++) {
+      var member = response[i];
 
-    for (var i = 0; i < jsonResponse.length; i++) {
-      var member = jsonResponse[i];
+      var currentMember = $("<div class='current-member'/>");
+      currentMembers.append(currentMember);
 
-      var currentMember = document.createElement('div');
-      currentMember.setAttribute('class', 'current-member');
-      currentMembers.appendChild(currentMember);
+      var memberImage = $("<div class='member-image'>\
+        <img class='icon-50' src='" + member.gravatar_url + "' alt='" + member.name + "'/>\
+      </div>");
+      currentMember.append(memberImage);
 
-      // Gravatar
+      var memberInfo = $("<div class='member-info'/>");
+      currentMember.append(memberInfo);
 
-      var memberImageWrapper = document.createElement('div');
-      memberImageWrapper.setAttribute('class', 'member-image');
-      currentMember.appendChild(memberImageWrapper);
-
-      var memberImage = document.createElement('img');
-      memberImage.setAttribute('src', member.gravatar_url);
-      memberImage.setAttribute('alt', member.name);
-      memberImage.setAttribute('class', 'icon-50');
-      memberImageWrapper.appendChild(memberImage);
-
-      // Info
-
-      var memberInfo = document.createElement('div');
-      memberInfo.setAttribute('class', 'member-info');
-      currentMember.appendChild(memberInfo);
-
-      var memberName = document.createElement('span');
-      memberName.setAttribute('class', 'member-name');
-      memberInfo.appendChild(memberName);
+      var memberName = $("<span class='member-name'/>");
+      memberInfo.append(memberName);
 
       if (member.profile.website) {
         var website = member.profile.website;
-        var websiteLink = document.createElement('a');
-        websiteLink.setAttribute('href', (website.indexOf('://') === -1) ? 'http://' + website : website);
-        websiteLink.appendChild(document.createTextNode(member.name));
-        memberName.appendChild(websiteLink);
+        var href = (website.indexOf('://') === -1) ? 'http://' + website : website;
+        memberName.append("<a href='" + href + "'>" + member.name + "</a>");
       } else {
-        memberName.appendChild(document.createTextNode(member.name));
+        memberName.append(member.name);
       }
 
-      var memberStatus = document.createElement('span');
-      memberStatus.setAttribute('class', 'member-status');
-      memberInfo.appendChild(memberStatus);
-
-      memberStatus.appendChild(document.createTextNode(member.state.replace(/_/g, ' ')));
+      var memberStatus = $("<span class='member-status'>\
+        " + member.state.replace(/_/g, ' ') + "\
+      </span>");
+      memberInfo.append(memberStatus);
     }
-  }
-  req.send();
+  });
 </script>
 
-<h4>Current members</h4>
+
+<h4 id='current-members'>Current members</h4>
 
 <p>Some of our members include:</p>
 
-<div id='current-members'/>
+<div class='current-members'/>
