@@ -1,0 +1,63 @@
+<script>
+  var req = new XMLHttpRequest();
+  req.overrideMimeType("application/json");
+  req.open('GET', 'https://app.doubleunion.org/public_members', true);
+  req.onload = e => {
+    var jsonResponse = JSON.parse(req.responseText);
+
+    var currentMembers = document.getElementById('current-members');
+
+    for (var i = 0; i < jsonResponse.length; i++) {
+      var member = jsonResponse[i];
+
+      var currentMember = document.createElement('div');
+      currentMember.setAttribute('class', 'current-member');
+      currentMembers.appendChild(currentMember);
+
+      // Gravatar
+
+      var memberImageWrapper = document.createElement('div');
+      memberImageWrapper.setAttribute('class', 'member-image');
+      currentMember.appendChild(memberImageWrapper);
+
+      var memberImage = document.createElement('img');
+      memberImage.setAttribute('src', member.gravatar_url);
+      memberImage.setAttribute('alt', member.name);
+      memberImage.setAttribute('class', 'icon-50');
+      memberImageWrapper.appendChild(memberImage);
+
+      // Info
+
+      var memberInfo = document.createElement('div');
+      memberInfo.setAttribute('class', 'member-info');
+      currentMember.appendChild(memberInfo);
+
+      var memberName = document.createElement('span');
+      memberName.setAttribute('class', 'member-name');
+      memberInfo.appendChild(memberName);
+
+      if (member.profile.website) {
+        var website = member.profile.website;
+        var websiteLink = document.createElement('a');
+        websiteLink.setAttribute('href', (website.indexOf('://') === -1) ? 'http://' + website : website);
+        websiteLink.appendChild(document.createTextNode(member.name));
+        memberName.appendChild(websiteLink);
+      } else {
+        memberName.appendChild(document.createTextNode(member.name));
+      }
+
+      var memberStatus = document.createElement('span');
+      memberStatus.setAttribute('class', 'member-status');
+      memberInfo.appendChild(memberStatus);
+
+      memberStatus.appendChild(document.createTextNode(member.state.replace(/_/g, ' ')));
+    }
+  }
+  req.send();
+</script>
+
+<h4>Current members</h4>
+
+<p>Some of our members include:</p>
+
+<div id='current-members'/>

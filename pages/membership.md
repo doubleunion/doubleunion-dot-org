@@ -72,25 +72,4 @@ Key members also have responsibilities:
 
 Voting members (who are usually also key members) choose to take on the additional responsibility of reviewing and voting on membership applications.
 
-<!--
-TODO: Re-add support for current members list, if desired.
-This would require a little javascript to fetch https://app.doubleunion.org/public_members
-
-### Current members
-
-Some of our members include:
-
-.current-members
-  - @public_members.each do |user|
-    .current-member
-      .member-image
-        - if user.gravatar_url
-          = image_tag user.gravatar_url, alt: user.name, title: user.name, class: 'icon-50'
-      .member-info
-        %span.member-name
-          - if user.profile.website
-            = link_to user.name, user.profile.website
-          - else
-            = user.name
-        %span.member-status= user.display_state
--->
+{% include current_members.html %}
