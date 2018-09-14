@@ -209,7 +209,7 @@ p {
 
 .home-banner {
   background: pink;
-  background-image: url({{ "/assets/images/jumbotron.jpg" | absolute_url }});
+  background-image: url({{ "/assets/images/jumbotron.jpg" | relative_url }});
   background-position: center;
 
   .home-banner-content {
