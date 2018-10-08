@@ -1,5 +1,6 @@
 ---
 layout: page
+tag: support
 title: Support us
 permalink: /support/
 ---

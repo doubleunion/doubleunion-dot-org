@@ -1,5 +1,6 @@
 ---
 layout: page
+tag: visiting
 title: Visiting
 permalink: /visit/
 ---

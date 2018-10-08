@@ -1,5 +1,6 @@
 ---
 layout: page
+tag: press
 title: Press
 permalink: /press/
 ---

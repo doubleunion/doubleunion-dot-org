@@ -1,5 +1,6 @@
 ---
 layout: page
+tag: about
 title: About
 permalink: /about/
 ---
@@ -36,18 +37,60 @@ If something is hard to decide, controversial, or otherwise needs a final decisi
 
 ### Leadership
 
-<div class='leader' markdown='1'>
-![Carmen Jackson]({{ "/assets/images/carmen.jpg" | relative_url }})
-#### Carmen Jackson, Board Member, President
-
-Carmen is fascinated by the relationships people have with their computers. When not working as a software engineer, she rides horses, lifts weights, organizes events, reads, and hikes. She has previously served on the Board of Directors of Bay Area Derby, and joined Double Union’s board after volunteering for a year as a Membership Coordinator.
+<div class='leader'>
+  <img 
+    src='{{ "/assets/images/board/carmen-jackson.jpg" | relative_url }}' 
+    alt='Carmen Jackson'
+  />
+  <div class='details'>
+    <div class='name'>Carmen Jackson</div>
+    <div class='title'>Board Member, President</div>
+    <div class='bio'>
+      Carmen is fascinated by the relationships people have with their computers. When not working as a software engineer, she rides horses, lifts weights, organizes events, reads, and hikes. She has previously served on the Board of Directors of Bay Area Derby, and joined Double Union’s board after volunteering for a year as a Membership Coordinator.
+    </div>
+  </div>
 </div>
 
-<div class='leader' markdown='1'>
-![Daniela Arias]({{ "/assets/images/dani_arias.jpg" | relative_url }})
-#### Daniela (Dani) Arias, Board Member
+<div class='leader'>
+  <img 
+    src='{{ "/assets/images/board/stephanie-andrews.jpg" | relative_url }}' 
+    alt='Stephanie Andrews'
+  />
+  <div class='details'>
+    <div class='name'>Stephanie Andrews</div>
+    <div class='title'>Board Member, Treasurer</div>
+    <div class='bio'>
+      Stephanie is a creative engineer and co-founder at Jello Moat Studio, making new interfaces for play, teaching, connection, and expression using emerging technologies. She previously worked as a software engineer at edtech startups, as a public policy analyst at the Department on the Status of Women, and at several local community-based organizations advancing social justice. This past summer she also was a participant of Oculus Launchpad, developing an experience that visualizes the physics of sound. A lifelong learner and maker at heart, Stephanie enjoys exploring new tools and using them to share untold stories.
+    </div>
+  </div>
+</div>
 
-Dani is a Certified Public Accountant by day and loves playing with spreadsheets and mentoring women in business. She spends her free time biking, hiking, working on sewing projects, and enjoying the sounds of high hats, beeps, boops, and clickety-doops.
+<div class='leader'>
+  <img 
+    src='{{ "/assets/images/board/dani-arias.jpg" | relative_url }}' 
+    alt='Dani Arias'
+  />
+  <div class='details'>
+    <div class='name'>Daniela (Dani) Arias</div>
+    <div class='title'>Board Member</div>
+    <div class='bio'>
+      Dani is a Certified Public Accountant by day and loves playing with spreadsheets and mentoring women in business. She spends her free time biking, hiking, working on sewing projects, and enjoying the sounds of high hats, beeps, boops, and clickety-doops.
+    </div>
+  </div>
+</div>
+
+<div class='leader'>
+  <img 
+    src='{{ "/assets/images/board/nora-trapp.jpg" | relative_url }}' 
+    alt='Nora Trapp'
+  />
+  <div class='details'>
+    <div class='name'>Nora Trapp</div>
+    <div class='title'>Board Member</div>
+    <div class='bio'>
+      Nora is an engineer by day, working on code to save the world (or at least make it a little better). By night, you’ll find her conducting experiments in the kitchen or enjoying fantasy/sci-fi media. She loves to spend her free time exploring the mysteries of the world and fueling her deep appreciation for nature. Nora previously served as Vice President for the Cape Cod Makers, a non-profit she helped found to improve the local community by establishing maker spaces in schools and libraries as well as hosting the annual Cape Cod Mini Maker Faire.
+    </div>
+  </div>
 </div>
 
 ### Tools

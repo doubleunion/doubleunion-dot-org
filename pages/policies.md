@@ -1,5 +1,6 @@
 ---
 layout: page
+tag: policies
 title: Policies
 permalink: /policies/
 ---
