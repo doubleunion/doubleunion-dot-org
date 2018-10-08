@@ -1,5 +1,6 @@
 ---
 layout: page
+tag: base-assumptions
 title: Base Assumptions
 permalink: /base_assumptions/
 ---

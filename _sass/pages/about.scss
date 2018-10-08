@@ -1,0 +1,58 @@
+.about {
+  .leader {
+    margin-bottom: 16px;
+    overflow: hidden;
+
+    img {
+      float: left;
+      width: 130px;
+      object-fit: cover;
+      margin: 15px 15px 0 0;
+    }
+
+    .details {
+      padding: 10px;
+
+      .name {
+        font-family: "Bree Serif", sans-serif;
+        font-weight: 800;
+        font-size: 20px;
+        line-height: 26px;
+      }
+
+      .title {
+        font-family: "Bree Serif", sans-serif;
+        font-size: 16px;
+        line-height: 18px;
+        color: #424242;
+        margin-bottom: 10px;
+      }
+
+      .bio {
+        font-size: 14px;
+        line-height: 22px;
+      }
+    }
+  }
+
+  .tool {
+    width: 280px;
+    float: left;
+    margin-right: 80px;
+    margin-bottom: 20px;
+    text-align: center;
+
+    @media (max-width: 600px) {
+      width: 100%;
+    }
+
+    &:nth-child(2n) {
+      margin-right: 0;
+    }
+
+    h4 {
+      margin-top: 0;
+      margin-bottom: 20px;
+    }
+  }
+}

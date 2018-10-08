@@ -1,5 +1,6 @@
 ---
 layout: page
+tag: membership
 title: Membership
 permalink: /membership/
 ---
