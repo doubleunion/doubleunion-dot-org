@@ -38,14 +38,14 @@ If something is hard to decide, controversial, or otherwise needs a final decisi
 
 <div class='leader' markdown='1'>
 ![Carmen Jackson]({{ "/assets/images/carmen.jpg" | relative_url }})
-#### Carmen Jackson, Board Member, Secretary
+#### Carmen Jackson, Board Member, President
 
 Carmen is fascinated by the relationships people have with their computers. When not working as a software engineer, she rides horses, lifts weights, organizes events, reads, and hikes. She has previously served on the Board of Directors of Bay Area Derby, and joined Double Union’s board after volunteering for a year as a Membership Coordinator.
 </div>
 
 <div class='leader' markdown='1'>
 ![Daniela Arias]({{ "/assets/images/dani_arias.jpg" | relative_url }})
-#### Daniela (Dani) Arias, Board Member, Treasurer
+#### Daniela (Dani) Arias, Board Member
 
 Dani is a Certified Public Accountant by day and loves playing with spreadsheets and mentoring women in business. She spends her free time biking, hiking, working on sewing projects, and enjoying the sounds of high hats, beeps, boops, and clickety-doops.
 </div>
