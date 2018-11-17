@@ -20,7 +20,7 @@ This code of conduct applies to all Double Union sponsored spaces, including our
 
 Some Double Union-sponsored spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
-[How to report a problem or concern](#reporting)
+[**Report a problem or concern**](#reporting)
 
 ### Definitions
 
@@ -53,7 +53,7 @@ The Double Union community prioritizes marginalized people’s safety over privi
 
 ### Reporting
 
-**If you are being harassed by a member of the Double Union community, notice that someone else is being harassed, or have any other concerns, [please submit a report here](https://docs.google.com/forms/d/e/1FAIpQLScijkJU_G43u-GJ69-PJEpuWgrUMZEpgVHXj0fkw_YCkU9n4A/viewform).** You may also submit a report or concern by emailing [{{ site.emails.conduct }}](mailto:{{ site.emails.conduct }}). You may report harassment anonymously, or you can choose to include your contact information if you would like Double Union to follow up with you for further investigation or to communicate actions that have been taken.
+**If you are being harassed by a member of the Double Union community, notice that someone else is being harassed, or have any other concerns, [please submit a report here](https://docs.google.com/forms/d/e/1FAIpQLScijkJU_G43u-GJ69-PJEpuWgrUMZEpgVHXj0fkw_YCkU9n4A/viewform).** You may also submit a report or concern by emailing [{{ site.emails.conduct }}](mailto:{{ site.emails.conduct }}). You may report harassment anonymously, or you can choose to include your contact information if you would like the Code of Conduct Committee to follow up with you for further investigation or to communicate actions that have been taken.
 
 Reports will be handled by the Double Union Code of Conduct Committee, which is currently Amy Bickerton, Britta Gustafson, and Kendra Albert. If the person who is harassing you is on the CoC Committee, they will recuse themselves from handling your incident. In this situation, you may also reach out to an individual CoC Committee member instead of submitting a report on the form, or have a friend submit your report. Otherwise, please do not reach out to private email addresses or social media accounts for reporting harassment.
 
@@ -96,7 +96,7 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 Double Union tries to be a place where members feel safe, and so it is important to us to foster a culture of consent and respect for the privacy and comfort of other members and of DU. This may be different than the social norms you are used to outside of Double Union, and it’s part of what is special about the space and our community.
 
-Because of that, here are guidelines about situations where you should ask before sharing information, and information that should always be kept confidential. When in doubt, ask first!
+Because of that, here are guidelines for members about situations where you should ask before sharing information, and information that should always be kept confidential. When in doubt, ask first!
 
 You should ask individual members about before sharing:
 * Content from Double Union members-only mailing lists, Slack chats, and Google Drive documents (unless it’s explicitly public, like information about public events)
@@ -121,4 +121,4 @@ These things must always be kept confidential:
 
 For other meetings and events, if you want the content to be kept confidential, please let everyone know at the beginning of your event or in the event description.
 
-If you feel that DU confidentiality has been broken, please report it to the Code of Conduct Committee using [this form](https://docs.google.com/forms/d/e/1FAIpQLScijkJU_G43u-GJ69-PJEpuWgrUMZEpgVHXj0fkw_YCkU9n4A/viewform). You may also submit a report or concern by emailing [{{ site.emails.conduct }}](mailto:{{ site.emails.conduct }}). You may report anonymously, or you can choose to include your contact information if you would like Double Union to follow up with you for further investigation or to communicate actions that have been taken.
+If you feel that DU confidentiality has been broken, please report it to the Code of Conduct Committee using [this form](https://docs.google.com/forms/d/e/1FAIpQLScijkJU_G43u-GJ69-PJEpuWgrUMZEpgVHXj0fkw_YCkU9n4A/viewform). You may also submit a report or concern by emailing [{{ site.emails.conduct }}](mailto:{{ site.emails.conduct }}). You may report anonymously, or you can choose to include your contact information if you would like the Code of Conduct Committee to follow up with you for further investigation or to communicate actions that have been taken.
