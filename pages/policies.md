@@ -73,7 +73,7 @@ This model means that there are some things the Code of Conduct Committee doesn�
 
 ### Confidentiality
 
-We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of DU members or the general public. We will not name harassment victims without their affirmative consent.
+We will respect confidentiality requests for the purpose of protecting targets of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of DU members or the general public. We will not name harassment targets without their affirmative consent.
 
 ### Consequences
 
