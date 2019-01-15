@@ -17,7 +17,7 @@ Join our [general interest mailing list]({{ site.urls.mailing_list }}) to get a 
 
 New members join through an application and voting process. If you're interested in being part of Double Union but aren't sure whether you're “good enough,” please apply - we don't evaluate applicants on whether they're “cool” or accomplished. Read on to hear about what we're looking for, and don't let [impostor syndrome](http://geekfeminism.wikia.com/wiki/Impostor_syndrome) stop you.
 
-Along with submitting an application, a qualification for membership is that you've met at least one member who is willing to say you seem like a respectful potential member (such as that you'd respect the [base assumptions]({{ 'base_assumptions' | absolute_url }}), [anti-harassment policy]({{ 'policies' | absolute_url }}), and responsibilities of being a member). Please come to events to meet some of us! Or if you'd prefer a quieter opportunity to meet just a couple members over a cup of tea, email [{{ site.emails.join }}](mailto:{{ site.emails.join }}) and we'll set this up.
+Along with submitting an application, a qualification for membership is that you've met at least one member who is willing to say you seem like a respectful potential member (such as that you'd respect the [base assumptions]({{ 'base_assumptions' | absolute_url }}), [code of conduct]({{ 'policies' | absolute_url }}), and responsibilities of being a member). Please come to events to meet some of us! Or if you'd prefer a quieter opportunity to meet just a couple members over a cup of tea, email [{{ site.emails.join }}](mailto:{{ site.emails.join }}) and we'll set this up.
 
 {% if site.accepting_applications %}
 ### Apply
@@ -66,7 +66,7 @@ If you are a key member, you can also:
 
 Key members also have responsibilities:
 * Lock the space when leaving
-* Kick people out of the space if they are violating the anti-harassment policy
+* Kick people out of the space if they are violating the [code of conduct]({{ 'policies' | absolute_url }})
 * Enforce the guest policy (not letting someone in the space that is not a member or guest of a member, unless a public event is taking place)
 
 #### Voting members

@@ -7,7 +7,7 @@ permalink: /base_assumptions/
 
 ### General things to keep in mind
 
-We try to make the culture at Double Union more welcoming than the world at large. Here are some of the values and best practices you can expect other members to share, what isn't okay in the space no matter whether you are a member or not, and general guidelines. See also our [anti-harassment policy]({{ 'policies' | absolute_url }}).
+We try to make the culture at Double Union more welcoming than the world at large. Here are some of the values and best practices you can expect other members to share, what isn't okay in the space no matter whether you are a member or not, and general guidelines. See also our [code of conduct]({{ 'policies' | absolute_url }}).
 
 ### Values you can assume other members strive to uphold:
 * “Women” includes trans women, not all women have uteri/XX chromosomes/etc.

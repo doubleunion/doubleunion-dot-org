@@ -43,7 +43,7 @@ We announce public events on [our blog]({{ site.urls.tumblr }}), [public mailing
 
 ### Conduct while in the space
 
-Double Union has a strict [anti-harassment policy]({{ 'policies' | absolute_url }}) which all visitors and members are expected to follow at all times. This policy is enforced by all Double Union members.
+Double Union has a strict [code of conduct]({{ 'policies' | absolute_url }}) which all visitors and members are expected to follow at all times. This policy is enforced by all Double Union members.
 
 ### Accessibility
 
