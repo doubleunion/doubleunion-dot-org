@@ -11,8 +11,9 @@
 3. Install Bundler (if you don’t have it already installed) 
 
 ```
-gem install bundler
+gem install bundler 
 ```
+If you get a permissions error on MacOS Mojave, try [these instructions](https://bundler.io/doc/troubleshooting.html) to troubleshoot.
 
 4. Install dependencies 
 
@@ -27,6 +28,18 @@ bundle exec jekyll serve
 ```
 
 6. Load up the page in your browser and begin editing! By default the site will run at `localhost:4000`
+
+
+## After you have it set up
+
+To stop the server from running locally on Mac, go to the terminal window where you have it running and press ctrl-c.
+
+To start it again, now that you've completed the initial setup, just run the jekyll server again:
+
+```
+bundle exec jekyll serve
+```
+
 
 ## Contributing
 
@@ -55,6 +68,7 @@ If you are new to GitHub, you can [use this guide](http://railsbridge.github.io/
 
 1. Create a new Pull Request explaining your changes (including which issue it's fixing, if there is one)
 1. If you find bugs, have feature requests or questions, please create an issue.
+
 
 
 ## License
