@@ -67,20 +67,6 @@ If something is hard to decide, controversial, or otherwise needs a final decisi
 
 <div class='leader'>
   <img 
-    src='{{ "/assets/images/board/dani-arias.jpg" | relative_url }}' 
-    alt='Dani Arias'
-  />
-  <div class='details'>
-    <div class='name'>Daniela (Dani) Arias</div>
-    <div class='title'>Board Member</div>
-    <div class='bio'>
-      Dani is a Certified Public Accountant by day and loves playing with spreadsheets and mentoring women in business. She spends her free time biking, hiking, working on sewing projects, and enjoying the sounds of high hats, beeps, boops, and clickety-doops.
-    </div>
-  </div>
-</div>
-
-<div class='leader'>
-  <img 
     src='{{ "/assets/images/board/nora-trapp.jpg" | relative_url }}' 
     alt='Nora Trapp'
   />
