@@ -32,9 +32,16 @@ To apply for Double Union membership, you'll start by authenticating with GitHub
 
 ### Membership qualifications
 
-Double Union welcomes members with a broad variety of interests, skills, identities, backgrounds, and histories. What we have in common is a [set of values (base assumptions)]({{ 'base_assumptions' | absolute_url }}) and an interest in supporting each other and Double Union. We want to accept more members who share our values and our commitment to building a safer space together.
+We are a space for [nonbinary](https://transequality.org/issues/resources/understanding-non-binary-people-how-to-be-respectful-and-supportive) people and women (trans, cis, queer, straight, and not-fitting-into-those-labels). Membership is open to all women and nonbinary people, which we interpret broadly, including:
+* Nonbinary people and women who are masculine-presenting to any degree
+* [AMAB](https://www.glbtrt.ala.org/news/archives/2845) nonbinary people
+* People who may only identify with these labels some of the time
+* People who are questioning and feel that these labels seem close enough
 
-To keep the focus on a great space for women and nonbinary people (trans, cis, queer, straight, and not-fitting-into-those-labels), all members must identify as a woman or nonbinary person in a way that is significant to them. Members must also be old enough to carry out any responsibilities. Guests of members may be any gender or age. We specifically encourage bringing (supervised) children to the space.
+Members must also be old enough to carry out any responsibilities. Guests of members may be any gender or age. We specifically encourage bringing (supervised) children to the space.
+
+If you aren’t sure whether DU is for you, please email [{{ site.emails.join }}](mailto:{{ site.emails.join }})  and we’d be happy to chat with you about this.
+
 
 ### How do members use the space?
 
@@ -54,7 +61,7 @@ This is the default type of membership, but most members choose to become key me
 
 * Use the space when a key member is present
 * Store your projects in the space (within reason)
-* Bring guests who identify as a woman or nonbinary person in a way that is significant to them
+* Bring guests who are nonbinary people and women
 
 #### Key members
 
