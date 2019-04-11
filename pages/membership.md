@@ -32,7 +32,7 @@ To apply for Double Union membership, you'll start by authenticating with GitHub
 
 ### Membership qualifications
 
-We are a space for [nonbinary](https://transequality.org/issues/resources/understanding-non-binary-people-how-to-be-respectful-and-supportive) people and women (trans, cis, queer, straight, and not-fitting-into-those-labels). Membership is open to all women and nonbinary people, which we interpret broadly, including:
+We are a space for [nonbinary](https://transequality.org/issues/resources/understanding-non-binary-people-how-to-be-respectful-and-supportive) people and women (trans, cis, queer, straight, and not-fitting-into-those-labels). Membership is open to all self-identified women and nonbinary people, including:
 * Nonbinary people and women who are masculine-presenting or feminine-presenting to any degree (or both or neither)
 * [AMAB and AFAB](https://www.glbtrt.ala.org/news/archives/2845) nonbinary people
 * People who may only identify with these labels some of the time
