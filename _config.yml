@@ -9,7 +9,7 @@ description: A hacker/maker space for women and nonbinary people in San Francisc
 # TODO: write some js to fetch from https://app.doubleunion.org/configurations,
 # but for now this is probably okay?
 accepting_applications: true
-application_deadline: May 6th
+application_deadline: May 20th
 
 logo_path: /assets/images/double_union_logo.png
 
