@@ -98,7 +98,7 @@ Double Union tries to be a place where members feel safe, and so it is important
 
 Because of that, here are guidelines for members about situations where you should ask before sharing information, and information that should always be kept confidential. When in doubt, ask first!
 
-You should ask individual members about before sharing:
+You should ask individual members before sharing:
 * Content from Double Union members-only mailing lists, Slack chats, and Google Drive documents (unless it’s explicitly public, like information about public events)
 * Discussions within members-only meetings
 * Member contact info
