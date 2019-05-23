@@ -8,7 +8,7 @@ Things people do in this space include sewing, programming, electronics, screenp
 
 Fast internet, shared tools, a carefully curated library of books and zines, and discussion spaces make this a great space for working on your projects, learning skills, and meeting new friends.
 
-Double Union is a supportive community for feminist activism. We strive to be intersectional feminists. We center women and nonbinary people who are trans, cis, queer, straight, and not-fitting-into-those-labels.
+Double Union is a supportive community for feminist activism. We strive to be intersectional feminists. We center nonbinary people and women who are trans, cis, queer, straight, and not-fitting-into-those-labels.
 
 ### Visiting Double Union: Classes and Events
 
