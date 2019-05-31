@@ -4,16 +4,16 @@
 
 0. Fork the repo (click the Fork button above), and clone your fork to your local machine. [Here's a GitHub tutorial](https://help.github.com/articles/fork-a-repo/) about how to do so.
 
-1. Check whether you have ruby 2.1.0 or higher installed by running `ruby --version` in your terminal
+1. Check whether you have the ruby version in the file .ruby-version installed by running `ruby --version` in your terminal
 
-2. If you don’t have ruby 2.1.0 or higher installed, follow the instructions [here](https://www.ruby-lang.org/en/downloads/)
+2. If you don’t have the ruby version in the file .ruby-version installed, follow the instructions [here](https://www.ruby-lang.org/en/downloads/)
 
 3. Install Bundler (if you don’t have it already installed) 
 
 ```
 gem install bundler 
 ```
-If you get a permissions error on MacOS Mojave, try [these instructions](https://bundler.io/doc/troubleshooting.html) to troubleshoot.
+If you get a permissions error on MacOS, try [these instructions](https://bundler.io/doc/troubleshooting.html) to troubleshoot.
 
 4. Install dependencies 
 
