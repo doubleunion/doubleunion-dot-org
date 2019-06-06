@@ -4,11 +4,11 @@ layout: home
 
 ### Double Union is a space for your projects
 
-Things women and nonbinary people do in this space include sewing, programming, electronics, screenprinting, fiber arts of all kinds, and zine making.
+Things people do in this space include sewing, programming, electronics, screenprinting, fiber arts of all kinds, and zine making.
 
 Fast internet, shared tools, a carefully curated library of books and zines, and discussion spaces make this a great space for working on your projects, learning skills, and meeting new friends.
 
-Double Union is a supportive community for feminist activism. We strive to be intersectional feminists, centered on women and nonbinary people, and queer and trans-inclusive.
+Double Union is a supportive community for feminist activism. We strive to be intersectional feminists. We center nonbinary people and women who are trans, cis, queer, straight, and not-fitting-into-those-labels.
 
 ### Visiting Double Union: Classes and Events
 
