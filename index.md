@@ -37,5 +37,5 @@ We would love your support for maintaining our makerspace in San Francisco! We h
 
 You can also reuse or contribute to our open source [website code]({{ site.urls.github_site }}) and [internal membership management app code]({{ site.urls.github_arooo }}).
 
-Thank you to [bugsnag.com](https://www.bugsnag.com/) for their [OSS program](https://www.bugsnag.com/open-source) :) ![bugsnag logo](https://global-uploads.webflow.com/5c741219fd0819540590e785/5c741219fd0819856890e790_asset%2039.svg | width=100)
+Thank you to [bugsnag.com](https://www.bugsnag.com/) for their [OSS program](https://www.bugsnag.com/open-source) :) ![bugsnag logo]({{"https://global-uploads.webflow.com/5c741219fd0819540590e785/5c741219fd0819856890e790_asset%2039.svg"}})
 
