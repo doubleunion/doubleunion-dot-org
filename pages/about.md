@@ -38,26 +38,26 @@ If something is hard to decide, controversial, or otherwise needs a final decisi
 ### Leadership
 
 <div class='leader'>
-  <img 
-    src='{{ "/assets/images/board/carmen-jackson.jpg" | relative_url }}' 
-    alt='Carmen Jackson'
+  <img
+    src='{{ "/assets/images/board/nora-trapp.jpg" | relative_url }}'
+    alt='Nora Trapp'
   />
   <div class='details'>
-    <div class='name'>Carmen Jackson</div>
+    <div class='name'>Nora Trapp <span class='pronouns'>(she / her)</span></div>
     <div class='title'>Board Member, President</div>
     <div class='bio'>
-      Carmen is fascinated by the relationships people have with their computers. When not working as a software engineer, she rides horses, lifts weights, organizes events, reads, and hikes. She has previously served on the Board of Directors of Bay Area Derby, and joined Double Union’s board after volunteering for a year as a Membership Coordinator.
+      Nora is an engineer for the Signal Foundation where she helps develop open source privacy technology that protects rights, promotes free expression, and enables secure global communication. In her free time, you’ll find her conducting vegan experiments in the kitchen, enjoying fantasy/sci-fi media, and fueling her deep appreciation for nature. Nora previously served as Vice President for the Cape Cod Makers, a nonprofit she helped found to improve the local community by establishing maker spaces in schools and libraries as well as hosting the annual Cape Cod Mini Maker Faire.
     </div>
   </div>
 </div>
 
 <div class='leader'>
-  <img 
-    src='{{ "/assets/images/board/stephanie-andrews.jpg" | relative_url }}' 
+  <img
+    src='{{ "/assets/images/board/stephanie-andrews.jpg" | relative_url }}'
     alt='Stephanie Andrews'
   />
   <div class='details'>
-    <div class='name'>Stephanie Andrews</div>
+    <div class='name'>Stephanie Andrews <span class='pronouns'>(she / her)</span></div>
     <div class='title'>Board Member, Treasurer</div>
     <div class='bio'>
       Stephanie is a creative engineer and co-founder at Jello Moat Studio, making new interfaces for play, teaching, connection, and expression using emerging technologies. She previously worked as a software engineer at edtech startups, as a public policy analyst at the Department on the Status of Women, and at several local community-based organizations advancing social justice. This past summer she also was a participant of Oculus Launchpad, developing an experience that visualizes the physics of sound. A lifelong learner and maker at heart, Stephanie enjoys exploring new tools and using them to share untold stories.
@@ -66,15 +66,29 @@ If something is hard to decide, controversial, or otherwise needs a final decisi
 </div>
 
 <div class='leader'>
-  <img 
-    src='{{ "/assets/images/board/nora-trapp.jpg" | relative_url }}' 
-    alt='Nora Trapp'
+  <img
+    src='{{ "/assets/images/board/sophia-booth-magnone.jpg" | relative_url }}'
+    alt='Sophia Booth Magnone'
   />
   <div class='details'>
-    <div class='name'>Nora Trapp</div>
+    <div class='name'>Sophia Booth Magnone <span class='pronouns'>(she / they)</span></div>
+    <div class='title'>Board Member, Secretary</div>
+    <div class='bio'>
+      Sophia is a book lover and literary scholar turned nonprofit fundraiser. She currently works at Equal Rights Advocates, a feminist legal nonprofit that fights for gender justice in workplaces and schools, and before that at the Feminist Press, an activist book publisher. Born and raised in Chicago, she’s also lived in southern California, Santa Cruz, Portland OR, and Brooklyn. You can often find her at home reading novels, baking vegan treats, and chilling with her cat.
+    </div>
+  </div>
+</div>
+
+<div class='leader'>
+  <img
+    src='{{ "/assets/images/board/chloe-madison.jpg" | relative_url }}'
+    alt='Chloe Madison'
+  />
+  <div class='details'>
+    <div class='name'>Chloe Madison <span class='pronouns'>(ze/zir or she/her)</span></div>
     <div class='title'>Board Member</div>
     <div class='bio'>
-      Nora is an engineer by day, working on code to save the world (or at least make it a little better). By night, you’ll find her conducting experiments in the kitchen or enjoying fantasy/sci-fi media. She loves to spend her free time exploring the mysteries of the world and fueling her deep appreciation for nature. Nora previously served as Vice President for the Cape Cod Makers, a non-profit she helped found to improve the local community by establishing maker spaces in schools and libraries as well as hosting the annual Cape Cod Mini Maker Faire.
+      Chloe is a multi-talented visual artist and engineer attempting to make a career from zir current work with concrete and simple electronics. Ze’s previous experience as a user experience designer and also a filmmaker guides zir design language towards human centered product development. As a compulsive tinkerer and maker, Chloe has found an affinity for van dwellings and is in the process of converting zir van into a home. Ze can be found binging YouTube and Netflix when not engineering zir next project to add to the list.
     </div>
   </div>
 </div>
