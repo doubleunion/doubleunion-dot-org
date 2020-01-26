@@ -8,6 +8,11 @@
       width: 130px;
       object-fit: cover;
       margin: 15px 15px 0 0;
+
+      @media (max-width: 500px) {
+        float: inherit;
+        margin: 0 0 0 10px;
+      }
     }
 
     .details {
@@ -26,6 +31,13 @@
         line-height: 18px;
         color: #424242;
         margin-bottom: 10px;
+      }
+
+      .pronouns {
+        font-size: 14px;
+        color: #424242;
+        position: relative;
+        top: -1px;
       }
 
       .bio {
