@@ -50,6 +50,9 @@ urls:
 
   mailing_list: https://groups.google.com/a/doubleunion.org/forum/#!forum/public
 
+plugins:
+  - jekyll-sitemap
+
 google_analytics: UA-47411942-1
 
 # Build settings
