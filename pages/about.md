@@ -60,7 +60,7 @@ If something is hard to decide, controversial, or otherwise needs a final decisi
     <div class='name'>Stephanie Andrews <span class='pronouns'>(she / her)</span></div>
     <div class='title'>Board Member, Treasurer</div>
     <div class='bio'>
-      Stephanie is a creative engineer and co-founder at Jello Moat Studio, making new interfaces for play, teaching, connection, and expression using emerging technologies. She previously worked as a software engineer at edtech startups, as a public policy analyst at the Department on the Status of Women, and at several local community-based organizations advancing social justice. This past summer she also was a participant of Oculus Launchpad, developing an experience that visualizes the physics of sound. A lifelong learner and maker at heart, Stephanie enjoys exploring new tools and using them to share untold stories.
+      Stephanie is a creator of spaces and experiences. A multidisciplinary artist with a background in social work, public policy, and engineering and a vested interest in fostering safer communities for women and non-binary creatives. In her spare moments she enjoys drinking copious amounts of buckwheat and silver needle tea and watching all the Law and Orders. She wants to make more progressive enamel pins, stickers, and zines this year.
     </div>
   </div>
 </div>
