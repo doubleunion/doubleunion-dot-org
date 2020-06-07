@@ -12,7 +12,7 @@ permalink: /policies/
 
 ## Code of Conduct
 
-*Last updated April 2019.*
+*Last updated June 6, 2020.*
 
 The Double Union (DU) community is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion. We do not tolerate harassment of participants in any form.
 
