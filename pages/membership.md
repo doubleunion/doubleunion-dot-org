@@ -15,9 +15,9 @@ Join our [general interest mailing list]({{ site.urls.mailing_list }}) to get a 
 </div>
 {% endif %}
 
-New members join through an application and voting process. If you're interested in being part of Double Union but aren't sure whether you're “good enough,” please apply - we don't evaluate applicants on whether they're “cool” or accomplished. Read on to hear about what we're looking for, and don't let [impostor syndrome](http://geekfeminism.wikia.com/wiki/Impostor_syndrome) stop you.
+New members join through an application process, and current members vote on applications. If you're interested in being part of Double Union but aren't sure whether you're “good enough,” please apply &mdash; we don't evaluate applicants on whether they're “cool” or accomplished. Read on to hear about what we're looking for, and don't let [impostor syndrome](http://geekfeminism.wikia.com/wiki/Impostor_syndrome) stop you.
 
-Along with submitting an application, a qualification for membership is that you've met at least one member who is willing to say you seem like a respectful potential member (such as that you'd respect the [base assumptions]({{ 'base_assumptions' | absolute_url }}), [code of conduct]({{ 'policies' | absolute_url }}), and responsibilities of being a member). Please come to events to meet some of us! Or if you'd prefer a quieter opportunity to meet just a couple members over a cup of tea, email [{{ site.emails.join }}](mailto:{{ site.emails.join }}) and we'll set this up.
+Along with submitting an application, a qualification for membership is that you've met at least one member who is willing to say you seem like a respectful potential member (including that you'd respect the [base assumptions]({{ 'base_assumptions' | absolute_url }}), [code of conduct]({{ 'policies' | absolute_url }}), and responsibilities of being a member). Please come to events to meet some of us! Or if you'd prefer a quieter opportunity to meet a couple members, email [{{ site.emails.join }}](mailto:{{ site.emails.join }}) and we'll set this up.
 
 {% if site.accepting_applications %}
 ### Apply
@@ -34,7 +34,7 @@ To apply for Double Union membership, you'll start by authenticating with GitHub
 
 Double Union welcomes members with a broad variety of interests, skills, identities, backgrounds, and histories. What we have in common is a [set of values (base assumptions)]({{ 'base_assumptions' | absolute_url }}) and an interest in supporting each other and Double Union. We want to accept more members who share our values and our commitment to building a safer space together.
 
-We are a space for [nonbinary](https://transequality.org/issues/resources/understanding-non-binary-people-how-to-be-respectful-and-supportive) people and women (trans, cis, queer, straight, and not-fitting-into-those-labels). Membership is open to all women and nonbinary people, self-identified, including:
+We are a space for [nonbinary](https://transequality.org/issues/resources/understanding-non-binary-people-how-to-be-respectful-and-supportive) people and women (trans, cis, intersex, queer, straight, and not-fitting-into-those-labels). Membership is open to all women and nonbinary people, self-identified, including:
 * Nonbinary people and women who are masculine-presenting or feminine-presenting to any degree (or both or neither)
 * [AMAB and AFAB](https://www.glbtrt.ala.org/news/archives/2845) nonbinary people
 * People who may only identify with these labels some of the time
