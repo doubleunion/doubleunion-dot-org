@@ -44,6 +44,15 @@ Members must also be old enough to carry out any responsibilities. Guests of mem
 
 If you aren’t sure whether DU is for you, please email [{{ site.emails.join }}](mailto:{{ site.emails.join }})  and we’d be happy to chat with you about this.
 
+#### Some reasons why we decline applications
+
+We accept most of the applications we receive! People often spend a long time writing their applications and coming to the space to meet members, and we are grateful for these efforts. But we have an application process as part of our goal of building and sustaining Double Union as a safer space with shared values, and sometimes we have to reject an application.
+
+The #1 most common reason for rejections is that we don’t have enough information to say yes &mdash; we haven't been able to learn enough about them to be able to make a confident decision on their application. Sometimes this is because of very short answers on an application, or members didn't get a chance to meet and talk to the person at events.
+
+We don’t comment on the reasons a particular application was rejected, because that can be much more complicated and painful for everyone than a simple rejection. We also wish to respect the privacy of applicants, so after voting is complete, applications are removed from members’ view.
+
+We have had several members that we initially rejected, and then after we got to know them more, we accepted their follow-up application!
 
 ### How do members use the space?
 
