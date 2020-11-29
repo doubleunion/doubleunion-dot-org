@@ -15,9 +15,9 @@ Join our [general interest mailing list]({{ site.urls.mailing_list }}) to get a 
 </div>
 {% endif %}
 
-New members join through an application and voting process. If you're interested in being part of Double Union but aren't sure whether you're “good enough,” please apply - we don't evaluate applicants on whether they're “cool” or accomplished. Read on to hear about what we're looking for, and don't let [impostor syndrome](http://geekfeminism.wikia.com/wiki/Impostor_syndrome) stop you.
+New members join through an application process, and current members vote on applications. If you're interested in being part of Double Union but aren't sure whether you're “good enough,” please apply &mdash; we don't evaluate applicants on whether they're “cool” or accomplished. Read on to hear about what we're looking for, and don't let [impostor syndrome](http://geekfeminism.wikia.com/wiki/Impostor_syndrome) stop you.
 
-Along with submitting an application, a qualification for membership is that you've met at least one member who is willing to say you seem like a respectful potential member (such as that you'd respect the [base assumptions]({{ 'base_assumptions' | absolute_url }}), [code of conduct]({{ 'policies' | absolute_url }}), and responsibilities of being a member). Please come to events to meet some of us! Or if you'd prefer a quieter opportunity to meet just a couple members over a cup of tea, email [{{ site.emails.join }}](mailto:{{ site.emails.join }}) and we'll set this up.
+Along with submitting an application, a qualification for membership is that you've met at least one member who is willing to say you seem like a respectful potential member (including that you'd respect the [base assumptions]({{ 'base_assumptions' | absolute_url }}), [code of conduct]({{ 'policies' | absolute_url }}), and responsibilities of being a member). Please come to events to meet some of us! Or if you'd prefer a quieter opportunity to meet a couple members, email [{{ site.emails.join }}](mailto:{{ site.emails.join }}) and we'll set this up.
 
 {% if site.accepting_applications %}
 ### Apply
@@ -34,7 +34,7 @@ To apply for Double Union membership, you'll start by authenticating with GitHub
 
 Double Union welcomes members with a broad variety of interests, skills, identities, backgrounds, and histories. What we have in common is a [set of values (base assumptions)]({{ 'base_assumptions' | absolute_url }}) and an interest in supporting each other and Double Union. We want to accept more members who share our values and our commitment to building a safer space together.
 
-We are a space for [nonbinary](https://transequality.org/issues/resources/understanding-non-binary-people-how-to-be-respectful-and-supportive) people and women (trans, cis, queer, straight, and not-fitting-into-those-labels). Membership is open to all women and nonbinary people, self-identified, including:
+We are a space for [nonbinary](https://transequality.org/issues/resources/understanding-non-binary-people-how-to-be-respectful-and-supportive) people and women (trans, cis, intersex, queer, straight, and not-fitting-into-those-labels). Membership is open to all women and nonbinary people, self-identified, including:
 * Nonbinary people and women who are masculine-presenting or feminine-presenting to any degree (or both or neither)
 * [AMAB and AFAB](https://www.glbtrt.ala.org/news/archives/2845) nonbinary people
 * People who may only identify with these labels some of the time
@@ -44,6 +44,15 @@ Members must also be old enough to carry out any responsibilities. Guests of mem
 
 If you aren’t sure whether DU is for you, please email [{{ site.emails.join }}](mailto:{{ site.emails.join }})  and we’d be happy to chat with you about this.
 
+#### Some reasons why we decline applications
+
+We accept most of the applications we receive! People often spend a long time writing their applications and coming to the space to meet members, and we are grateful for these efforts. But we have an application process as part of our goal of building and sustaining Double Union as a safer space with shared values, and sometimes we have to reject an application.
+
+The #1 most common reason for rejections is that we don’t have enough information to say yes &mdash; we haven't been able to learn enough about them to be able to make a confident decision on their application. Sometimes this is because of very short answers on an application, or members didn't get a chance to meet and talk to the person at events.
+
+We don’t comment on the reasons a particular application was rejected, because that can be much more complicated and painful for everyone than a simple rejection. We also wish to respect the privacy of applicants, so after voting is complete, applications are removed from members’ view.
+
+We have had several members that we initially rejected, and then after we got to know them more, we accepted their follow-up application!
 
 ### How do members use the space?
 
