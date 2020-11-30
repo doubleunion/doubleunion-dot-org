@@ -68,6 +68,10 @@ Members can volunteer to be voting members, who read and decide on new member ap
 
 ### Leadership
 
+#### Board
+
+*Contact: board@doubleunion.org*
+
 <div class='leader'>
   <img
     src='{{ "/assets/images/board/nora-trapp.jpg" | relative_url }}'
@@ -123,6 +127,12 @@ Members can volunteer to be voting members, who read and decide on new member ap
     </div>
   </div>
 </div>
+
+#### Membership Coordinator
+
+*Contact: join@doubleunion.org (for prospective members) or membership@doubleunion.org (for current members)*
+
+* **Ana Ulin**
 
 ### Tools
 
