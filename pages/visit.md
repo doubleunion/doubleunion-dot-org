@@ -14,26 +14,11 @@ permalink: /visit/
 
 ### Location
 
-We are located in Lower Potrero Hill at [1250 Missouri St. #111](https://www.google.com/maps/place/1250+Missouri+St,+San+Francisco,+CA+94107/@37.7504873,-122.3978271,17z/data=!3m1!4b1!4m2!3m1!1s0x808f7fae0730e01b:0x8ee0ca3bde3eae0d), San Francisco.
+We are currently virtual-only! 
 
-**Parking a car:**
-there's some parking (one-hour until 6 pm, except on Sunday) on the street in front of the space, but this may be full. There is also street parking along Connecticut Street.
+When it is safe to gather again, we plan to rent a new space. We intend to reopen in San Francisco or Oakland near a BART station, maintaining our commitment to ADA-compliant (or better) accessibility and a warm and welcoming environment. Our equipment is in storage, and we look forward to unpacking and organizing it again.
 
-**Bike parking:**
-feel free to bring your bike up the elevator and inside the space.
-
-**Public transit:**
-the 19 bus stops around the corner, and the 48 bus stops nearby. If you're coming from the East Bay, one way is to get off at Civic Center BART and take the 19 south.
-
-Here’s what our building looks like! When you turn from Cesar Chavez St. onto Missouri St., it’s the tall grey box with large windows:
-
-![Building from street]({{ "/assets/images/building-from-street.jpg" | relative_url }})
-
-The left side of the building has a little tree in front of the main entrance, usually behind a few cars:
-
-![Building closer]({{ "/assets/images/building-closer.jpg" | relative_url }})
-
-That’s the building’s front door. If you’re a guest of a member, or a guest attending a public event, you can use the keypad to press #111 (our unit number) to call the phone inside the space.
+For now, we continue to gather online, with chat and videocall communication, events, and workshops.
 
 ### Access
 
@@ -47,6 +32,6 @@ Double Union has a strict [code of conduct]({{ 'policies' | absolute_url }}) whi
 
 ### Accessibility
 
-The building that Double Union is located in is fully ADA compliant. There is a large elevator to get to the space, and there is an accessible bathroom inside. To access the space, take the elevator to the first floor (1). The upper (loft) area of the space is accessible by elevator (floor 1M).
+When Double Union reopens again, we plan to remain fully ADA compliant. We'll add access information when we get there, such as elevator details!
 
-Double Union is actively working to create a culture where we create and maintain accessible space. We will add more accessibility information as we go on, and would love feedback on how to improve.
+Double Union actively works to create a culture where we create and maintain accessible space.
