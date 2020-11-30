@@ -8,32 +8,63 @@ permalink: /about/
 ### Table of contents
 
 * [History](#history)
-* [Decisionmaking at Double Union](#decisionmaking-at-double-union)
+* [Decision-making](#decision-making)
 * [Leadership](#leadership)
 * [Tools](#tools)
 
 ### History
 
-The spark that started Double Union was AdaCamp San Francisco, a feminist unconference in June 2013. At that event, a group of women came together to talk about starting feminist makerspaces where women’s needs are prioritized. Among them was Leigh Honeywell, who had just co-founded Seattle Attic, a feminist makerspace in Seattle, who freely shared her experience and tips for starting a new makerspace. Several women, including Double Union co-founders Amelia Greenhall, Valerie Aurora, and Liz Henry, were inspired to start a similar space in San Francisco. Their inspiration: “What if we had a space that felt like AdaCamp all year round?” They decided to create a space with the primary goal of being a comfortable and welcoming place for women to work on their projects.
-
-After AdaCamp, about 10 women started meeting weekly at each other’s homes to brainstorm. Throughout the summer, they created and documented their shared values, raised money amongst themselves and people they knew, incorporated as a 501(c)(3) non-profit, adopted bylaws (largely based on those of The Ada Initiative), selected a board, got a bank account, and set up various kinds of online infrastructure. In October 2013 the board signed a lease on a space in the Fog Building, at 333 Valencia St in the Mission. After ripping out the carpets, building shelves and workbenches, and taking out the ceiling tiles to reveal hidden skylights, Double Union began accepting new members. In October 2015, Double Union moved to a new space in Potrero Hill at 1250 Missouri St. #111.
-
-Double Union began with the membership gender criteria of people who “identify as a woman in a way significant to them”. In January 2018, members decided to expand this criteria to “identify as a woman or nonbinary person in a way significant to them”. In April 2019, we simplified this phrasing to “all women and nonbinary people” and expanded the description of this on [the membership page]({{ 'membership' | absolute_url }}).
+#### Goals
 
 Double Union calls itself a hacker / maker space, because our goal is to create a space where women and nonbinary people can feel equally comfortable knitting, coding, drawing, or using power tools and no one feels pressure to prove they belong here. Double Union members are creating a culture where we don’t just make awesome stuff - we also ask questions, feel confused sometimes, and break things.
 
 Another value members hold at Double Union is the idea that clearly defined structures and boundaries help create safer spaces. We have a shared  [code of conduct]({{ 'policies' | absolute_url }}) and a list of [base assumptions]({{ 'base_assumptions' | absolute_url }}) for members.
 
-Double Union’s decision-making structure is heavily influenced by Jo Freeman’s The Tyranny of Structurelessness and has evolved over time as the organization has grown. At first, the people meeting informally made a lot of the founding decisions. After a couple of months, three people volunteered to incorporate Double Union and became the board of directors, responsible for making legal, financial, and high-level decisions. They also created the position of voting member, to decide on new member applications and take on higher-level responsibilities within the organization. A few weeks later, they created committees to make decisions about specific areas like screen printing and electronics. After about a year, Double Union members created committees to formalize and document all of our official and de-facto decision-making policies. We also paid multiculturalism and inclusion consultants about 15% of our annual budget to advise us on making Double Union more welcoming to a wider variety of women and nonbinary people.
+#### Founding
 
+The spark that started Double Union was AdaCamp San Francisco, a feminist unconference in June 2013. At that event, a group of women came together to talk about starting feminist makerspaces where women’s needs are prioritized. Among them was Leigh Honeywell, who had just co-founded Seattle Attic, a feminist makerspace in Seattle, who freely shared her experience and tips for starting a new makerspace. Several women, including Double Union co-founders Amelia Greenhall, Valerie Aurora, and Liz Henry, were inspired to start a similar space in San Francisco. Their inspiration: “What if we had a space that felt like AdaCamp all year round?” They decided to create a space with the primary goal of being a comfortable and welcoming place for women to work on their projects.
 
-### Decisionmaking at Double Union
+After AdaCamp, about 10 women started meeting weekly at each other’s homes to brainstorm. Throughout the summer, they created and documented their shared values, raised money amongst themselves and people they knew, incorporated as a 501(c)(3) non-profit, adopted bylaws (largely based on those of The Ada Initiative), selected a board, got a bank account, and set up various kinds of online infrastructure.
 
-We have a members-only mailing list and internal chat system where we propose and discuss things, and we have members meetings about once a month. This usually results in decisions without a formal process being necessary. Groups of 2+ members interested in a topic form committees, to run events or be in charge of some aspect of the space's operation.
+#### Physical spaces
 
-Our committees can be about a topic, such as bicycles or zinemaking. We also have several committees related to running Double Union together, such as developing our web applications, membership coordination, and updating our social media.
+In October 2013, the board signed a lease on a space in the Fog Building, at 333 Valencia St in the Mission. After ripping out the carpets, building shelves and workbenches, and taking out the ceiling tiles to reveal hidden skylights, Double Union began accepting new members.
+
+In October 2015, Double Union moved to a new space in Potrero Hill at 1250 Missouri St. #111. In March 2020, we stopped in-person use of our space except for one-person-at-a-time production of protective equipment for the pandemic, such as fabric masks and face shield structures. In September 2020, we ended our lease and moved our equipment into storage.
+
+When it is safe to gather again, we plan to rent a new space. We intend to reopen in San Francisco or Oakland near a BART station, maintaining our commitment to ADA-compliant (or better) accessibility and a warm and welcoming environment.
+
+#### Growth in membership gender criteria
+
+Double Union began in 2013 with the membership gender criteria of people who “identify as a woman in a way significant to them”. In January 2018, members decided to expand this criteria to “identify as a woman or nonbinary person in a way significant to them”. In April 2019, we simplified this phrasing to “all women and nonbinary people” and expanded the description of this on [the membership page]({{ 'membership' | absolute_url }}).
+
+### Decision-making
+
+Double Union’s decision-making structure is heavily influenced by Jo Freeman’s essay ["The Tyranny of Structurelessness"](https://www.jofreeman.com/joreen/tyranny.htm), and it has evolved over time as the organization has grown.
+
+#### Board members
+
+At first, the people meeting informally made a lot of the founding decisions. After a couple of months, three people volunteered to incorporate Double Union and became the board of directors, responsible for making legal, financial, and high-level decisions.
+
+Each board member is limited to a two-year term, so our board membership has cycled many times since our founding in 2013. This reduces burnout, ensures that this type of power rotates among members, and encourages a wide range of perspectives on the board over time.
+
+#### Committees
+
+Groups of 2+ members interested in a topic form committees, to run events or be in charge of some aspect of the space's operation.
+
+Our committees can be about a topic, such as bicycles, zine-making, or electronics. They can make decisions about that specific area of the space, such as buying or maintaining equipment and teaching workshops.
+
+We also have several committees related to running Double Union together, such as the Code of Conduct committee, developing our web applications, membership coordination, and updating our social media. These kinds of committees formalize, document, and maintain our official and de-facto decision-making policies.
+
+#### Communication
+
+We have a members-only mailing list and internal chat system where we propose and discuss ideas, and we have members meetings about once a month. This usually results in decisions without a formal process being necessary. 
 
 If something is hard to decide, controversial, or otherwise needs a final decision, our small board makes the decision. We don't want to get stuck in endless discussions; having a board avoids that problem. The board also does the legal and financial decision making involved in being a non-profit.
+
+#### Voting members
+
+Members can volunteer to be voting members, who read and decide on new member applications. They receive training and guidance about voting, to encourage fair and inclusive decision-making that upholds our values.
 
 ### Leadership
 
