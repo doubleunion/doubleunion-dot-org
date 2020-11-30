@@ -46,7 +46,7 @@ Double Unionâ€™s decision-making structure is heavily influenced by Jo Freemanâ€
 
 At first, the people meeting informally made a lot of the founding decisions. After a couple of months, three people volunteered to incorporate Double Union and became the board of directors, responsible for making legal, financial, and high-level decisions.
 
-Each board member is limited to a two-year term, so our board membership has cycled many times since our founding in 2013. This reduces burnout, ensures that this type of power rotates among members, and encourages a wide range of perspectives on the board over time.
+Each board member has a two-year term (with an optional third year), so our board membership has cycled many times. This reduces burnout, ensures that this type of power rotates among members, and encourages a wide range of perspectives on the board over time.
 
 #### Committees
 
