@@ -9,6 +9,7 @@ permalink: /policies/
 
 * [Code of Conduct](#code-of-conduct)
 * [Confidentiality Policy](#confidentiality-policy)
+* [License](#license)
 
 ## Code of Conduct
 
@@ -122,3 +123,6 @@ These things must always be kept confidential:
 For other meetings and events, if you want the content to be kept confidential, please let everyone know at the beginning of your event or in the event description.
 
 If you feel that DU confidentiality has been broken, please report it to the Code of Conduct Committee using [this form](https://docs.google.com/forms/d/e/1FAIpQLScijkJU_G43u-GJ69-PJEpuWgrUMZEpgVHXj0fkw_YCkU9n4A/viewform). You may also submit a report or concern by emailing [{{ site.emails.conduct }}](mailto:{{ site.emails.conduct }}). You may report anonymously, or you can choose to include your contact information if you would like the Code of Conduct Committee to follow up with you for further investigation or to communicate actions that have been taken.
+
+## License
+Thiese policies are licensed under the [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). It is public domain; neither credit nor open licencing of your version is required.
