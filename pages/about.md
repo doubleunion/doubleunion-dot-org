@@ -102,6 +102,20 @@ Members can volunteer to be voting members, who read and decide on new member ap
 
 <div class='leader'>
   <img
+    src='{{ "/assets/images/board/britta-gustafson.jpg" | relative_url }}'
+    alt='Britta Gustafson'
+  />
+  <div class='details'>
+    <div class='name'>Britta Gustafson <span class='pronouns'>(she / her)</span></div>
+    <div class='title'>Board Member</div>
+    <div class='bio'>
+      Britta has been a DU member since 2013. She works as a content strategist and product manager at A1M Solutions, a small government contractor that works with the Centers for Medicare and Medicaid Services. She is also a harpist, Wikipedia editor, and volunteer for a police accountability organization. As a trash enthusiast, she is hoping to learn to repair small electronics and refinish furniture when DU reopens in a new physical space.
+    </div>
+  </div>
+</div>
+
+<div class='leader'>
+  <img
     src='{{ "/assets/images/board/sophia-booth-magnone.jpg" | relative_url }}'
     alt='Sophia Booth Magnone'
   />
