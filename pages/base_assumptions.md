@@ -23,6 +23,7 @@ We try to make the culture at Double Union more welcoming than the world at larg
 * If you get called out on something, apologize and learn from it
 * It’s okay to disagree, not okay to blame self or others
 * Respect people’s gender pronouns
+* We are critical of capitalism
 
 ### Stuff that isn’t okay in this space:
 * Taking “reverse sexism” or “reverse racism” seriously
