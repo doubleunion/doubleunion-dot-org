@@ -142,6 +142,16 @@ Members can volunteer to be voting members, who read and decide on new member ap
   </div>
 </div>
 
+
+#### Code of Conduct Committee
+
+*Contact: conduct@doubleunion.org*
+
+* **Amy Bickerton** (she/her)
+* **Eris Koleszar** (they/them)
+* **Jean Costello** (she/her)
+* **Kona Goodhart** (she/her)
+
 #### Membership Coordinator
 
 *Contact: join@doubleunion.org (for prospective members) or membership@doubleunion.org (for current members)*
