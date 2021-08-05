@@ -142,6 +142,43 @@ Members can volunteer to be voting members, who read and decide on new member ap
   </div>
 </div>
 
+
+#### Code of Conduct Committee
+
+*Contact: conduct@doubleunion.org*
+
+<div class='leader'>
+  <img
+    src='{{ "/assets/images/amy-bickerton.png" | relative_url }}'
+    alt='Amy Bickerton'
+  />
+  <div class='details'>
+    <div class='name'>Amy Bickerton <span class='pronouns'>(she / her)</span></div>
+  </div>
+</div>
+
+<div class='leader'>
+  <img
+    src='{{ "/assets/images/eris-koleszar.jpg" | relative_url }}'
+    alt='Eris Koleszar'
+  />
+  <div class='details'>
+    <div class='name'>Eris Koleszar <span class='pronouns'>(they / them)</span></div>
+  </div>
+</div>
+
+<div class='leader'>
+  <div class='details'>
+    <div class='name'>Jean Costello <span class='pronouns'>(she / her)</span></div>
+  </div>
+</div>
+
+<div class='leader'>
+  <div class='details'>
+    <div class='name'>Kona Goodhart <span class='pronouns'>(she / her)</span></div>
+  </div>
+</div>
+
 #### Membership Coordinator
 
 *Contact: join@doubleunion.org (for prospective members) or membership@doubleunion.org (for current members)*
