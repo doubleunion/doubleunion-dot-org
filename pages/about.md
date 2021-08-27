@@ -93,7 +93,7 @@ Members can volunteer to be voting members, who read and decide on new member ap
   />
   <div class='details'>
     <div class='name'>Stephanie Andrews <span class='pronouns'>(she / her)</span></div>
-    <div class='title'>Board Member, Treasurer</div>
+    <div class='title'>Board Member</div>
     <div class='bio'>
       Stephanie is a creator of spaces and experiences. A multidisciplinary artist with a background in social work, public policy, and engineering and a vested interest in fostering safer communities for women and non-binary creatives. In her spare moments she enjoys drinking copious amounts of buckwheat and silver needle tea and watching all the Law and Orders. She wants to make more progressive enamel pins, stickers, and zines this year.
     </div>
@@ -107,7 +107,7 @@ Members can volunteer to be voting members, who read and decide on new member ap
   />
   <div class='details'>
     <div class='name'>Britta Gustafson <span class='pronouns'>(she / her)</span></div>
-    <div class='title'>Board Member</div>
+    <div class='title'>Board Member, Treasurer</div>
     <div class='bio'>
       Britta has been a DU member since 2013. She works as a content strategist and product manager at A1M Solutions, a small government contractor that works with the Centers for Medicare and Medicaid Services. She is also a harpist, Wikipedia editor, and volunteer for a police accountability organization. As a trash enthusiast, she is hoping to learn to repair small electronics and refinish furniture when DU reopens in a new physical space.
     </div>
