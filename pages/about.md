@@ -7,18 +7,21 @@ permalink: /about/
 
 ### Table of contents
 
+* [Overview](#overview)
 * [History](#history)
 * [Decision-making](#decision-making)
 * [Leadership](#leadership)
 * [Tools](#tools)
 
+### Overview
+
+Double Union calls itself a hacker / maker space, because our goal is to create a space where women and nonbinary people can feel equally comfortable knitting, coding, drawing, or using power tools, and no one feels pressure to prove they belong here. Double Union members work to create a culture where we don’t just make awesome stuff - we also ask questions, feel confused sometimes, and break things.
+
+Another value members hold at Double Union is the idea that clearly defined structures and boundaries help create better spaces. We have a shared  [code of conduct]({{ 'policies' | absolute_url }}) and a list of [base assumptions]({{ 'base_assumptions' | absolute_url }}) for members.
+
+Double Union is a volunteer-run 501(c)(3) nonprofit. Our EIN is 46-3264631, and you can view our [public IRS filings](https://projects.propublica.org/nonprofits/organizations/463264631).
+
 ### History
-
-#### Goals
-
-Double Union calls itself a hacker / maker space, because our goal is to create a space where women and nonbinary people can feel equally comfortable knitting, coding, drawing, or using power tools and no one feels pressure to prove they belong here. Double Union members are creating a culture where we don’t just make awesome stuff - we also ask questions, feel confused sometimes, and break things.
-
-Another value members hold at Double Union is the idea that clearly defined structures and boundaries help create safer spaces. We have a shared  [code of conduct]({{ 'policies' | absolute_url }}) and a list of [base assumptions]({{ 'base_assumptions' | absolute_url }}) for members.
 
 #### Founding
 
@@ -26,17 +29,17 @@ The spark that started Double Union was AdaCamp San Francisco, a feminist unconf
 
 After AdaCamp, about 10 women started meeting weekly at each other’s homes to brainstorm. Throughout the summer, they created and documented their shared values, raised money amongst themselves and people they knew, incorporated as a 501(c)(3) non-profit, adopted bylaws (largely based on those of The Ada Initiative), selected a board, got a bank account, and set up various kinds of online infrastructure.
 
+#### Growth in membership gender criteria
+
+Double Union began in 2013 with the membership gender criteria of people who “identify as a woman in a way significant to them”. In January 2018, members decided to expand this criteria to “identify as a woman or nonbinary person in a way significant to them”. In April 2019, we simplified this phrasing to “all women and nonbinary people” and expanded the description of this on [the membership page]({{ 'membership' | absolute_url }}).
+
 #### Physical spaces
 
 In October 2013, the board signed a lease on a space in the Fog Building, at 333 Valencia St in the Mission. After ripping out the carpets, building shelves and workbenches, and taking out the ceiling tiles to reveal hidden skylights, Double Union began accepting new members.
 
-In October 2015, Double Union moved to a new space in Potrero Hill at 1250 Missouri St. #111. In March 2020, we stopped in-person use of our space except for one-person-at-a-time production of protective equipment for the pandemic, such as fabric masks and face shield structures. In September 2020, we ended our lease and moved our equipment into storage.
+In October 2015, Double Union moved to a new space in Potrero Hill at 1250 Missouri St #111. It was a much larger space with two bathrooms and a full kitchen. In March 2020, we had to stop in-person use of our space except for one-person-at-a-time production of protective equipment for the pandemic, such as fabric masks and face shield structures. In September 2020, we ended our lease and moved our equipment into storage. Even before the pandemic, we had been planning to move because this space was relatively far from BART, which made it harder to access for many members.
 
-When it is safe to gather again, we plan to rent a new space. We intend to reopen in San Francisco or Oakland near a BART station, maintaining our commitment to ADA-compliant (or better) accessibility and a warm and welcoming environment.
-
-#### Growth in membership gender criteria
-
-Double Union began in 2013 with the membership gender criteria of people who “identify as a woman in a way significant to them”. In January 2018, members decided to expand this criteria to “identify as a woman or nonbinary person in a way significant to them”. In April 2019, we simplified this phrasing to “all women and nonbinary people” and expanded the description of this on [the membership page]({{ 'membership' | absolute_url }}).
+In September 2021, we rented a new space in SOMA at 77 Falmouth St, about a half mile from Powell BART. It's 775 sq ft, and for the first time we have a street-facing door instead of being nestled inside a larger building. We're excited to be organizing and setting up our space again.
 
 ### Decision-making
 

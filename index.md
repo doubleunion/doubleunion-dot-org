@@ -12,7 +12,7 @@ Double Union is a supportive community for feminist activism. We strive to be in
 
 ### Visiting Double Union: Classes and Events
 
-Double Union is [currently virtual]({{ 'visit' | absolute_url }}). We plan to reopen a physical space when it is safe to gather again, hopefully in 2021.
+Double Union is [located in the South of Market neighborhood in San Francisco]({{ 'visit' | absolute_url }}).
 
 Other than during events open to the public, Double Union visitors must be the invited guest of a member. Please do not visit without the express invitation of a member. Please do not invite guests unless you are a member. Guests may be any gender or age.
 

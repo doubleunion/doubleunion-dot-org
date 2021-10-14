@@ -14,11 +14,7 @@ permalink: /visit/
 
 ### Location
 
-We are currently virtual-only! 
-
-When it is safe to gather again, we plan to rent a new space. We intend to reopen in San Francisco or Oakland near a BART station, maintaining our commitment to ADA-compliant (or better) accessibility and a warm and welcoming environment. Our equipment is in storage, and we look forward to unpacking and organizing it again.
-
-For now, we continue to gather online, with chat and videocall communication, events, and workshops.
+Double Union is at [77 Falmouth St in SOMA, San Francisco](https://www.google.com/maps/place/77+Falmouth+St,+San+Francisco,+CA+94107/@37.7792278,-122.4060461,17z/data=!3m1!4b1!4m5!3m4!1s0x80858080560ff21b:0xb11bae707088cee5!8m2!3d37.7792278!4d-122.4038574?shorturl=1). As of October 2021, we are not yet open on a regular basis for events or guests.
 
 ### Access
 
@@ -32,6 +28,6 @@ Double Union has a strict [code of conduct]({{ 'policies' | absolute_url }}) whi
 
 ### Accessibility
 
-When Double Union reopens again, we plan to remain fully ADA compliant. We'll add access information when we get there, such as elevator details!
+77 Falmouth St is a ground-level retail-style space open to the sidewalk, without stairs or elevators. It is flat inside. It has one ADA-accessible bathroom.
 
 Double Union actively works to create a culture where we create and maintain accessible space.
