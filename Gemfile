@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+ruby File.read('./.ruby-version')
+
 gem 'minima' # Jekyll theme
 
 # github-pages v207 includes fix for security in dependency (https://github.com/advisories/GHSA-mqm2-cgpr-p4m6)
