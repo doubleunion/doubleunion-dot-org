@@ -91,20 +91,6 @@ Members can volunteer to be voting members, who read and decide on new member ap
 
 <div class='leader'>
   <img
-    src='{{ "/assets/images/board/stephanie-andrews.jpg" | relative_url }}'
-    alt='Stephanie Andrews'
-  />
-  <div class='details'>
-    <div class='name'>Stephanie Andrews <span class='pronouns'>(she / her)</span></div>
-    <div class='title'>Board Member</div>
-    <div class='bio'>
-      Stephanie is a creator of spaces and experiences. A multidisciplinary artist with a background in social work, public policy, and engineering and a vested interest in fostering safer communities for women and non-binary creatives. In her spare moments she enjoys drinking copious amounts of buckwheat and silver needle tea and watching all the Law and Orders. She wants to make more progressive enamel pins, stickers, and zines this year.
-    </div>
-  </div>
-</div>
-
-<div class='leader'>
-  <img
     src='{{ "/assets/images/board/britta-gustafson.jpg" | relative_url }}'
     alt='Britta Gustafson'
   />
@@ -127,20 +113,6 @@ Members can volunteer to be voting members, who read and decide on new member ap
     <div class='title'>Board Member, Secretary</div>
     <div class='bio'>
       Sophia is a book lover and literary scholar turned nonprofit fundraiser. She currently works at Equal Rights Advocates, a feminist legal nonprofit that fights for gender justice in workplaces and schools, and before that at the Feminist Press, an activist book publisher. Born and raised in Chicago, she’s also lived in southern California, Santa Cruz, Portland OR, and Brooklyn. You can often find her at home reading novels, baking vegan treats, and chilling with her cat.
-    </div>
-  </div>
-</div>
-
-<div class='leader'>
-  <img
-    src='{{ "/assets/images/board/chloe-madison.jpg" | relative_url }}'
-    alt='Chloe Madison'
-  />
-  <div class='details'>
-    <div class='name'>Chloe Madison <span class='pronouns'>(ze/zir or she/her)</span></div>
-    <div class='title'>Board Member</div>
-    <div class='bio'>
-      Chloe is a multi-talented visual artist and engineer attempting to make a career from zir current work with concrete and simple electronics. Ze’s previous experience as a user experience designer and also a filmmaker guides zir design language towards human centered product development. As a compulsive tinkerer and maker, Chloe has found an affinity for van dwellings and is in the process of converting zir van into a home. Ze can be found binging YouTube and Netflix when not engineering zir next project to add to the list.
     </div>
   </div>
 </div>
