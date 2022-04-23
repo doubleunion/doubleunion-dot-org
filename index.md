@@ -32,6 +32,8 @@ Double Union is accepting new members! Members join through an application and v
 Members join through an application and voting process. If you're interested in being part of Double Union, please subscribe to our social media (listed above) to receive an announcement when we reopen membership applications.
 {% endif %}
 
+Members pay dues on a sliding-scale basis between $0-100 per month, typically $25 or $50.
+
 Check out our [membership page]({{ 'membership' | absolute_url }}) to learn more.
 
 ### Want to Support Double Union?
