@@ -19,7 +19,7 @@ Double Union calls itself a hacker / maker space, because our goal is to create 
 
 Another value members hold at Double Union is the idea that clearly defined structures and boundaries help create better spaces. We have a shared  [code of conduct]({{ 'policies' | absolute_url }}) and a list of [base assumptions]({{ 'base_assumptions' | absolute_url }}) for members.
 
-Double Union is a volunteer-run 501(c)(3) nonprofit. Our EIN is 46-3264631, and you can view our [public IRS filings](https://projects.propublica.org/nonprofits/organizations/463264631).
+Double Union is a volunteer-run 501(c)(3) nonprofit. Our EIN is 46-3264631, and you can view our public IRS filings by looking up Double Union in the [California Registry of Charitable Trusts](https://rct.doj.ca.gov/Verification/Web/Search.aspx?facility=Y).
 
 ### History
 
