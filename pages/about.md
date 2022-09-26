@@ -117,6 +117,19 @@ Members can volunteer to be voting members, who read and decide on new member ap
   </div>
 </div>
 
+<div class='leader'>
+  <img
+    src='{{ "/assets/images/board/aiyesha-ma.jpg" | relative_url }}'
+    alt='Aiyesha Ma'
+  />
+  <div class='details'>
+    <div class='name'>Aiyesha Ma <span class='pronouns'>(she / her)</span></div>
+    <div class='title'>Board Member</div>
+    <div class='bio'>
+      Aiyesha is an occasional costumer and an even more occasional miniaturist. She enjoys learning new crafty things and spending time outdoors often backpacking, skiing, or kayaking.  She has worked as a data scientist and data engineer in the past.
+    </div>
+  </div>
+</div>
 
 #### Code of Conduct Committee
 
