@@ -8,7 +8,9 @@ Things people do in this space include sewing, programming, electronics, screenp
 
 Fast internet, shared tools, a carefully curated library of books and zines, and discussion spaces make this a great space for working on your projects, learning skills, and meeting new friends.
 
-Double Union is a supportive community for feminist activism. We strive to be intersectional feminists. We center nonbinary people and women who are trans, cis, intersex, queer, straight, and not-fitting-into-those-labels. Membership is open to all nonbinary people and all women, self-identified. For details about what we mean, see [membership qualifications]({{ 'membership/#membership-qualifications' | absolute_url }}).
+Double Union is a supportive community for feminist activism. We strive to be intersectional feminists. Membership is open to all nonbinary people and all women, self-identified. For details about what we mean, see [membership qualifications]({{ 'membership/#membership-qualifications' | absolute_url }}).
+
+Members pay dues on a sliding-scale basis between $0-100 per month, typically $25 or $50, for unlimited access. We are volunteer-run, and members can participate in maintainence, event-organizing, and leadership.
 
 ### Visiting Double Union: Classes and Events
 
@@ -31,8 +33,6 @@ Double Union is accepting new members! Members join through an application and v
 {% else %}
 Members join through an application and voting process. If you're interested in being part of Double Union, please subscribe to our social media (listed above) to receive an announcement when we reopen membership applications.
 {% endif %}
-
-Members pay dues on a sliding-scale basis between $0-100 per month, typically $25 or $50.
 
 Check out our [membership page]({{ 'membership' | absolute_url }}) to learn more.
 
