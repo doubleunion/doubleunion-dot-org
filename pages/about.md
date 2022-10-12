@@ -179,28 +179,33 @@ Below are some of the tools and activities you can find at Double Union!
 
 <div class='tools' markdown='1'>
   <div class='tool' markdown='1'>
-![Sewing]({{ "/assets/images/sewing.jpg" | relative_url }})
+![Library and Couch]({{ "/assets/images/2022_library_and_couch.jpg" | relative_url }})
+#### Hanging Out and Reading
+  </div>
+
+  <div class='tool' markdown='1'>
+![Adjustable Desks]({{ "/assets/images/2022_Adjustable_height_desks_for_working.jpg" | relative_url }})
+#### Adjustable Desks
+  </div>
+
+  <div class='tool' markdown='1'>
+![Sewing]({{ "/assets/images/2022_sewing_area.jpg" | relative_url }})
 #### Sewing and Fiber Arts
   </div>
 
   <div class='tool' markdown='1'>
-![Electronics]({{ "/assets/images/electronics.jpg" | relative_url }})
-#### Electronics
+![Laser Cutter and Electronics]({{ "/assets/images/2022_laser_cutter_and_electronics.jpg" | relative_url }})
+#### Laser Cutter and Electronics
   </div>
 
   <div class='tool' markdown='1'>
-![Drawing]({{ "/assets/images/drawing.jpg" | relative_url }})
-#### Drawing
-  </div>
-
-  <div class='tool' markdown='1'>
-![Silk Screening]({{ "/assets/images/silk_screening.jpg" | relative_url }})
+![Silk Screening]({{ "/assets/images/2022_screen_printing_printers.jpg" | relative_url }})
 #### Silk Screening Tools
   </div>
 
   <div class='tool' markdown='1'>
-![3D Printer and CNC]({{ "/assets/images/3d_printer_and_cnc.jpg" | relative_url }})
-#### 3D Printer and CNC
+![3D Printer and CNC]({{ "/assets/images/2022_3d_printers.jpg" | relative_url }})
+#### 3D Printers and CNC
   </div>
 
   <div class='tool' markdown='1'>
@@ -214,13 +219,23 @@ Below are some of the tools and activities you can find at Double Union!
   </div>
 
   <div class='tool' markdown='1'>
-![Library]({{ "/assets/images/library.jpg" | relative_url }})
-#### Library
+![Paper Cutter]({{ "/assets/images/2022_papers_and_paper_cutter.jpg" | relative_url }})
+#### Assorted papers and Paper cutter
   </div>
 
   <div class='tool' markdown='1'>
-![Tea, Coffee, and Mugs]({{ "/assets/images/tea.jpg" | relative_url }})
-#### Tea, Coffee, and Mugs
+![Printers]({{ "/assets/images/2022_printers.jpg" | relative_url }})
+#### Laser Printer and Inkjet Printers
+  </div>
+
+  <div class='tool' markdown='1'>
+![Art Supplies]({{ "/assets/images/2022_supplies_paints_pens_stamps.jpg" | relative_url }})
+#### Paints, Pens, Stamps, and Ink
+  </div>
+
+  <div class='tool' markdown='1'>
+![Tea, Coffee, and Mugs]({{ "/assets/images/2022_snacking.jpg" | relative_url }})
+#### Snacking
   </div>
 
 </div>
