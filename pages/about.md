@@ -61,7 +61,7 @@ We also have several committees related to running Double Union together, such a
 
 #### Communication
 
-We have a members-only mailing list and internal chat system where we propose and discuss ideas, and we have members meetings about once a month. This usually results in decisions without a formal process being necessary. 
+We have a members-only mailing list and internal chat system where we propose and discuss ideas, and we have members meetings about once a month. This usually results in decisions without a formal process being necessary.
 
 If something is hard to decide, controversial, or otherwise needs a final decision, our small board makes the decision. We don't want to get stuck in endless discussions; having a board avoids that problem. The board also does the legal and financial decision making involved in being a non-profit.
 
@@ -171,7 +171,7 @@ Members can volunteer to be voting members, who read and decide on new member ap
 
 *Contact: join@doubleunion.org (for prospective members) or membership@doubleunion.org (for current members)*
 
-* **Ana Ulin**
+* **Sarah Walters**
 
 ### Tools
 
