@@ -8,6 +8,7 @@ permalink: /policies/
 ### Table of Contents
 
 * [Code of Conduct](#code-of-conduct)
+* [COVID-19 Policy](#covid-19-policy)
 * [Confidentiality Policy](#confidentiality-policy)
 * [License](#license)
 
@@ -90,6 +91,70 @@ Example actions and consequences may include:
 * Identification of a participant as a harasser to other DU members or the general public
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
+
+## COVID-19 Policy
+
+*Last updated December 2, 2022.*
+
+As members contributing to this policy, we are excited about re-opening our shared space, and we want to make sure we keep ourselves and fellow members as healthy and safe as possible. We will need to update this policy according to government and health expert recommendations and industry standards; this will be a living document. 
+
+Since this is a policy with a goal of preventing harm to members, it is part of the scope of the Code of Conduct Committee. If you have concerns about a member not following the requirements (especially even after reminders), you can [contact the Code of Conduct Committee](#reporting) to make a report, and they will help with addressing it.
+
+After this policy is reviewed by the membership and approved by the board, the future update process will be:
+
+* Any member can make a suggestion in “suggest” mode
+* Other members can comment on the suggestion
+* The board will review and incorporate suggestions, in consultation with the CoCC
+* For any major changes (not just phrasing, typos, etc), the board or CoCC will email a note to the members mailing list
+
+### Requirements
+
+* If you’re not alone in the space (if two or more people are in the space), wear a mask (see [CDC guidelines](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html) and also see Recommendations below).
+    * You can remove your mask briefly when eating or drinking.
+* To support individual contact tracing: when you enter the space, fill out the [Google Form visitor log](https://forms.gle/xELQZrYiFURfSHA4A) with your name, email address and/or phone number, and the day and time you were in the space.
+    * If you bring guests, ask them to fill out this form as well.
+* Be fully vaccinated [according to CDC guidelines](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/fully-vaccinated.html). By entering, you self-attest that you are fully vaccinated.
+    * If you need to discuss a potential medical exception or anything else related to this, email the board ([board@doubleunion.org](mailto:board@doubleunion.org)); we’ll review on a case-by-case basis.
+* Review the City of San Francisco [risk self-screening questions](https://sfdhr.org/sites/default/files/documents/COVID-19/Health-Screening-for-Employees.pdf) and only come to the space if your answers are all “no”.
+* Members may bring one guest if you ensure they also comply with these requirements (you may bring children you care for even if they are not yet eligible for vaccination).
+    * Members may also reserve DU for a few hours for you and your guests, if you want to bring more than one guest for a small event, such as working on a project with your friends. Send a note to the members mailing list at least 2 days ahead of time and mark it on the DU shared calendar.
+* If you become ill with COVID symptoms after being in the space, notify the CoCC immediately ([conduct@doubleunion.org](mailto:conduct@doubleunion.org)) (this is not a CoC violation, they’re just the people who handle mitigations).
+    * If a person reports to the CoCC that they may have been infectious while in the space, the CoCC will send an announcement to the members mailing list (saying that there was potential exposure on a day and time, without any names).
+    * The CoCC will also send the same day-and-time exposure information individually to people who had filled out the optional contact tracing log (see Recommendations) who were in the space at approximately the same time as the infectious person.
+    * If possible, get a COVID test and share the results with the CoCC as soon as you have them.
+
+### Recommendations
+
+* When sharing the space with other members, increase ventilation as much as you can.
+    * When possible, keep the door open while multiple people are inside
+    * Set the air purifiers to 2 or higher (turn to “eco” mode if you’re the last person to leave)
+    * As a proxy measurement of sufficient ventilation, the CO<sub>2</sub> monitor should display lower than 800 ppm (see [CDC recommendations](https://www.cdc.gov/coronavirus/2019-ncov/community/ventilation.html))
+* You’re encouraged to wear a N95, KF94, or KN95 mask since they are [widely available now](https://www.nytimes.com/wirecutter/reviews/where-to-buy-n95-kn95-masks-online/), and they protect you better than cloth masks. Another good option is layering a disposable surgical mask under a cloth mask.
+* No more than five people in the space.
+* When you plan to be at DU, create an event on the shared DU calendar to note the times/days, and note if you’re bringing a guest. This helps other people see whether the space may be quiet or busy, so they can determine whether they would like to go in. Example:
+
+  <img
+    src='{{ "/assets/images/covid-calendar-example.png" | relative_url }}'
+    alt='Screenshot showing a Google calendar event blocking out a period of time'
+  />
+
+* Practice social distancing as best as possible while sharing the space.
+* Even though surface transmission is less likely than airborne transmission, it’s still helpful to reduce it.
+* Wash your hands regularly while in the space
+* If you use any shared dishes or utensils, wash them thoroughly with dish soap, dry with paper towels, and put them back on the shelf or in the drawer (don’t leave them in the sink)
+* Before you leave the space, wipe down surfaces you used (wipes are by the door)
+
+### Appendix: self-screening questions from City of SF
+
+1. Do you currently have or have you in the past 24 hours had any one of the following symptoms which is **new or not explained by another reason**: fever at or above 100.4°F (38°C), chills, cough, shortness of breath, difficulty breathing, sore throat, unusual weakness or fatigue, loss of smell or taste, muscle aches, headache, runny nose different from your allergies, nausea, vomiting, or diarrhea?
+
+2. Have you had a COVID-19 “close contact” that would require you to quarantine? To help you answer this question:
+
+    * A “close contact” with a person confirmed to have COVID-19 includes persons in your home, sex partners including only kissing, or people who you take care of or who take care of you. It also includes people who were within 6 feet of you for more than 15 minutes total in a 24-hour period, whether or not they were wearing a face covering, or with whom you had contact with their body fluids or secretions.
+    * If it is at least 14 days after you have received your final dose of a COVID-19 vaccine, you do not need to quarantine after a “close contact” unless you work in a congregate or jail setting.
+
+3. Within the past 10 days, have you been diagnosed or tested positive for COVID-19?
+
 
 ## Confidentiality Policy
 

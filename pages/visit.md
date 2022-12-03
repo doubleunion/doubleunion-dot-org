@@ -11,6 +11,7 @@ permalink: /visit/
 * [Access](#access)
 * [Conduct while in the space](#conduct-while-in-the-space)
 * [Accessibility](#accessibility)
+* [COVID-19 Policy]({{ 'policies#covid-19-policy' | absolute_url }})
 
 ### Location
 
@@ -26,7 +27,7 @@ We announce public events on [our blog]({{ site.urls.tumblr }}), [public mailing
 
 ### Conduct while in the space
 
-Double Union has a [code of conduct]({{ 'policies' | absolute_url }}) which all visitors and members are expected to follow at all times. This policy is enforced by all Double Union members.
+Double Union has a [code of conduct]({{ 'policies#code-of-conduct' | absolute_url }}) which all visitors and members are expected to follow at all times. This policy is enforced by all Double Union members.
 
 ### Accessibility
 
