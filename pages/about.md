@@ -151,7 +151,7 @@ Members can volunteer to be voting members, who read and decide on new member ap
     alt='Eris Koleszar'
   />
   <div class='details'>
-    <div class='name'>Eris Koleszar <span class='pronouns'>(they / them)</span></div>
+    <div class='name'>Eris Koleszar <span class='pronouns'>(she / her)</span></div>
   </div>
 </div>
 
