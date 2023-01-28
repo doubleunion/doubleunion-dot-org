@@ -15,20 +15,20 @@ Join our [general interest mailing list]({{ site.urls.mailing_list }}) to get a 
 </div>
 {% endif %}
 
-New members join through an application process, and current members vote on applications. If you're interested in being part of Double Union but aren't sure whether you're “good enough,” please apply &mdash; we don't evaluate applicants on whether they're “cool” or accomplished. Read on to hear about what we're looking for, and don't let [impostor syndrome](http://geekfeminism.wikia.com/wiki/Impostor_syndrome) stop you.
-
-Along with submitting an application, a qualification for membership is that you've met at least one member who is willing to say you seem like a respectful potential member (including that you'd respect the [base assumptions]({{ 'base_assumptions' | absolute_url }}), [code of conduct]({{ 'policies' | absolute_url }}), and responsibilities of being a member). Please come to events to meet some of us! Or if you'd prefer a quieter opportunity to meet a couple members, email [{{ site.emails.join }}](mailto:{{ site.emails.join }}) and we'll set this up.
-
 {% if site.accepting_applications %}
 ### Apply
 
 To apply for Double Union membership, you'll start by authenticating with GitHub or Google.
 
-**Before you apply, though, please read through our [Base Assumptions]({{ 'base_assumptions' | absolute_url }}). They are very important to us and we want all members to be comfortable with them.**
+Before you apply, though, please read through our [Base Assumptions]({{ 'base_assumptions' | absolute_url }}). They are very important to us and we want all members to be comfortable with them.
 
 {:.apply-button}
 [Apply to Join]({{ site.urls.app }}/login){:.btn .btn-lg .btn-primary}
 {% endif %}
+
+New members join through an application process, and current members vote on applications. If you're interested in being part of Double Union but aren't sure whether you're “good enough,” please apply &mdash; we don't evaluate applicants on whether they're “cool” or accomplished. Read on to hear about what we're looking for, and don't let [impostor syndrome](http://geekfeminism.wikia.com/wiki/Impostor_syndrome) stop you.
+
+Along with submitting an application, a qualification for membership is that you've met at least one member who is willing to say you seem like a respectful potential member (including that you'd respect the [base assumptions]({{ 'base_assumptions' | absolute_url }}), [code of conduct]({{ 'policies' | absolute_url }}), and responsibilities of being a member). Please come to events to meet some of us! Or if you'd prefer a quieter opportunity to meet a couple members, email [{{ site.emails.join }}](mailto:{{ site.emails.join }}) and we'll set this up.
 
 ### Membership qualifications
 
