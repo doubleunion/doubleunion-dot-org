@@ -66,25 +66,17 @@ We have an active members-only mailing list where events, workshops, and meeting
 
 All members pay monthly membership dues (what you can afford, between $10 and $100 per month) or have $0 scholarship dues if paying would be a hardship.
 
-#### Members
+After attending an orientation and agreeing to uphold member responsibilities, you get a key code that lets you use the space whenever you like.
 
-This is the default type of membership, but most members choose to become key members (see next section). Members can:
-
-* Use the space when a key member is present
-* Store your projects in the space (within reason)
-* Bring guests who are nonbinary people and women
-
-#### Key members
-
-After attending at least two events (including at least one members meeting) and agreeing to uphold the responsibilities of a key member, you get a key code that lets you use the space whenever you like.
-
-If you are a key member, you can also:
+Members with a key code can:
 * Get into the space at any time
 * Bring guests of any gender
+* Store small in-progress projects in the space, marked with your name and contact info
 
-Key members also have responsibilities:
+Members also have responsibilities:
+
 * Lock the space when leaving
-* Kick people out of the space if they are violating the [code of conduct]({{ 'policies' | absolute_url }})
+* Uphold our [code of conduct]({{ 'policies' | absolute_url }}), including reminding guests about it if needed
 * Enforce the guest policy (not letting someone in the space that is not a member or guest of a member, unless a public event is taking place)
 
 #### Voting members
