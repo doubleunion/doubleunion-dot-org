@@ -27,7 +27,7 @@ We announce public events on [our blog]({{ site.urls.tumblr }}), [public mailing
 
 ### COVID-19 risk mitigation
 
-We have requirements and recommendations to try to make DU relatively safe for most people, and we ask that members and guests follow them. These include:
+We have requirements and recommendations to try to make DU relatively safe for most people, and we ask that members and guests follow them. The full [COVID-19 policy is here]({{ 'policies#covid-19-policy' | absolute_url }}). These include:
 
 * Wear a face covering, ideally a high-quality mask (N95, KF94, KN95). If you forget one or want a new one, DU has masks in a cart by the front door.
 * Be fully vaccinated.
@@ -40,4 +40,4 @@ We have requirements and recommendations to try to make DU relatively safe for m
 
 ### Conduct while in the space
 
-Double Union has a [code of conduct]({{ 'policies' | absolute_url }}) which all visitors and members are expected to follow at all times. This policy is enforced by all Double Union members.
+Double Union has a [code of conduct]({{ 'policies#code-of-conduct' | absolute_url }}) which all visitors and members are expected to follow at all times. This policy is enforced by all Double Union members.
