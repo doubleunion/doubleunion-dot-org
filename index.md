@@ -10,7 +10,7 @@ Fast internet, shared tools, a carefully curated library of books and zines, and
 
 Double Union is a supportive community for feminist activism. We strive to be intersectional feminists. Membership is open to all nonbinary people and all women, self-identified. For details about what we mean, see [membership qualifications]({{ 'membership/#membership-qualifications' | absolute_url }}).
 
-Members pay dues on a sliding-scale basis between $0-100 per month, typically $25 or $50, for unlimited access. We are volunteer-run, and members can participate in maintainence, event-organizing, and leadership.
+Members pay dues on a sliding-scale basis, between $0-100 per month, for unlimited access. We are volunteer-run, and members can participate in maintainence, event-organizing, and leadership.
 
 ### Visiting Double Union: Classes and Events
 

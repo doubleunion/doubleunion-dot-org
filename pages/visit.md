@@ -9,9 +9,9 @@ permalink: /visit/
 
 * [Location](#location)
 * [Access](#access)
-* [Conduct while in the space](#conduct-while-in-the-space)
+* [COVID-19 risk mitigation](#covid-19-risk-mitigation)
 * [Accessibility](#accessibility)
-* [COVID-19 Policy]({{ 'policies#covid-19-policy' | absolute_url }})
+* [Conduct while in the space](#conduct-while-in-the-space)
 
 ### Location
 
@@ -25,10 +25,19 @@ Other than during events open to the public, Double Union visitors must be the i
 
 We announce public events on [our blog]({{ site.urls.tumblr }}), [public mailing list]({{ site.urls.mailing_list }}), [Facebook]({{ site.urls.facebook }}), [Instagram]({{ site.urls.instagram }}), and on Twitter at [{{ site.twitter_username }}]({{ site.urls.twitter }}).
 
-### Conduct while in the space
+### COVID-19 risk mitigation
 
-Double Union has a [code of conduct]({{ 'policies#code-of-conduct' | absolute_url }}) which all visitors and members are expected to follow at all times. This policy is enforced by all Double Union members.
+We have requirements and recommendations to try to make DU relatively safe for most people, and we ask that members and guests follow them. The full [COVID-19 policy is here]({{ 'policies#covid-19-policy' | absolute_url }}). These include:
+
+* Wear a face covering, ideally a high-quality mask (N95, KF94, KN95). If you forget one or want a new one, DU has masks in a cart by the front door.
+* Be fully vaccinated.
+* [Review basic self-screening questions](https://sf.gov/sites/default/files/2020-08/HealthScreeningQuestions-11x17-081120.pdf) and be able to say "no".
+* Increase ventilation as much as you can. Keep the door open if possible, verify that both air purifiers are on, and turn on the fan if needed. Occasionally check the CO2 monitor on the shelf at the back of the room, which should display lower than 800 ppm.
 
 ### Accessibility
 
 77 Falmouth St is a ground-level retail-style space open to the sidewalk, no stairs or steps. It is flat inside. It has an ADA-accessible bathroom.
+
+### Conduct while in the space
+
+Double Union has a [code of conduct]({{ 'policies#code-of-conduct' | absolute_url }}) which all visitors and members are expected to follow at all times. This policy is enforced by all Double Union members.

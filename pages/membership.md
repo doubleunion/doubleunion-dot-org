@@ -15,20 +15,20 @@ Join our [general interest mailing list]({{ site.urls.mailing_list }}) to get a 
 </div>
 {% endif %}
 
-New members join through an application process, and current members vote on applications. If you're interested in being part of Double Union but aren't sure whether you're “good enough,” please apply &mdash; we don't evaluate applicants on whether they're “cool” or accomplished. Read on to hear about what we're looking for, and don't let [impostor syndrome](http://geekfeminism.wikia.com/wiki/Impostor_syndrome) stop you.
-
-Along with submitting an application, a qualification for membership is that you've met at least one member who is willing to say you seem like a respectful potential member (including that you'd respect the [base assumptions]({{ 'base_assumptions' | absolute_url }}), [code of conduct]({{ 'policies' | absolute_url }}), and responsibilities of being a member). Please come to events to meet some of us! Or if you'd prefer a quieter opportunity to meet a couple members, email [{{ site.emails.join }}](mailto:{{ site.emails.join }}) and we'll set this up.
-
 {% if site.accepting_applications %}
 ### Apply
 
 To apply for Double Union membership, you'll start by authenticating with GitHub or Google.
 
-**Before you apply, though, please read through our [Base Assumptions]({{ 'base_assumptions' | absolute_url }}). They are very important to us and we want all members to be comfortable with them.**
+Before you apply, though, please read through our [Base Assumptions]({{ 'base_assumptions' | absolute_url }}). They are very important to us and we want all members to be comfortable with them.
 
 {:.apply-button}
 [Apply to Join]({{ site.urls.app }}/login){:.btn .btn-lg .btn-primary}
 {% endif %}
+
+New members join through an application process, and current members vote on applications. If you're interested in being part of Double Union but aren't sure whether you're “good enough,” please apply &mdash; we don't evaluate applicants on whether they're “cool” or accomplished. Read on to hear about what we're looking for, and don't let [impostor syndrome](http://geekfeminism.wikia.com/wiki/Impostor_syndrome) stop you.
+
+Along with submitting an application, a qualification for membership is that you've met at least one member who is willing to say you seem like a respectful potential member (including that you'd respect the [base assumptions]({{ 'base_assumptions' | absolute_url }}), [code of conduct]({{ 'policies' | absolute_url }}), and responsibilities of being a member). Please come to events to meet some of us! Or if you'd prefer a quieter opportunity to meet a couple members, email [{{ site.emails.join }}](mailto:{{ site.emails.join }}) and we'll set this up.
 
 ### Membership qualifications
 
@@ -64,27 +64,19 @@ We have an active members-only mailing list where events, workshops, and meeting
 
 ### Membership benefits and responsibilities
 
-All members pay monthly membership dues (what you can afford – generally $10, $25, or $50/month) or have $0 scholarship dues if paying would be a hardship.
+All members pay monthly membership dues (what you can afford, between $10 and $100 per month) or have $0 scholarship dues if paying would be a hardship.
 
-#### Members
+After attending an orientation and agreeing to uphold member responsibilities, you get a key code that lets you use the space whenever you like.
 
-This is the default type of membership, but most members choose to become key members (see next section). Members can:
-
-* Use the space when a key member is present
-* Store your projects in the space (within reason)
-* Bring guests who are nonbinary people and women
-
-#### Key members
-
-After attending at least two events (including at least one members meeting) and agreeing to uphold the responsibilities of a key member, you get a key code that lets you use the space whenever you like.
-
-If you are a key member, you can also:
+Members with a key code can:
 * Get into the space at any time
 * Bring guests of any gender
+* Store small in-progress projects in the space, marked with your name and contact info
 
-Key members also have responsibilities:
+Members also have responsibilities:
+
 * Lock the space when leaving
-* Kick people out of the space if they are violating the [code of conduct]({{ 'policies' | absolute_url }})
+* Uphold our [code of conduct]({{ 'policies' | absolute_url }}), including reminding guests about it if needed
 * Enforce the guest policy (not letting someone in the space that is not a member or guest of a member, unless a public event is taking place)
 
 #### Voting members
