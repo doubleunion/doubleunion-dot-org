@@ -96,23 +96,9 @@ Members can volunteer to be voting members, who read and decide on new member ap
   />
   <div class='details'>
     <div class='name'>Britta Gustafson <span class='pronouns'>(she / her)</span></div>
-    <div class='title'>Board Member, Treasurer</div>
-    <div class='bio'>
-      Britta has been a DU member since 2013. She works as a content strategist and product manager at A1M Solutions, a small government contractor that works with the Centers for Medicare and Medicaid Services. She is also a harpist, Wikipedia editor, and volunteer for a police accountability organization. As a trash enthusiast, she is hoping to learn to repair small electronics and refinish furniture when DU reopens in a new physical space.
-    </div>
-  </div>
-</div>
-
-<div class='leader'>
-  <img
-    src='{{ "/assets/images/board/sophia-booth-magnone.jpg" | relative_url }}'
-    alt='Sophia Booth Magnone'
-  />
-  <div class='details'>
-    <div class='name'>Sophia Booth Magnone <span class='pronouns'>(she / they)</span></div>
     <div class='title'>Board Member, Secretary</div>
     <div class='bio'>
-      Sophia is a book lover and literary scholar turned nonprofit fundraiser. She currently works at Equal Rights Advocates, a feminist legal nonprofit that fights for gender justice in workplaces and schools, and before that at the Feminist Press, an activist book publisher. Born and raised in Chicago, she’s also lived in southern California, Santa Cruz, Portland OR, and Brooklyn. You can often find her at home reading novels, baking vegan treats, and chilling with her cat.
+      Britta has been a DU member since 2013. She works as a content strategist and product manager at A1M Solutions, a small government contractor that works with the Centers for Medicare and Medicaid Services. She is also a harpist, Wikipedia editor, and volunteer for a police accountability organization. As a trash enthusiast, she is hoping to learn to repair small electronics and refinish furniture when DU reopens in a new physical space.
     </div>
   </div>
 </div>
@@ -124,7 +110,7 @@ Members can volunteer to be voting members, who read and decide on new member ap
   />
   <div class='details'>
     <div class='name'>Aiyesha Ma <span class='pronouns'>(she / her)</span></div>
-    <div class='title'>Board Member</div>
+    <div class='title'>Board Member, Treasurer</div>
     <div class='bio'>
       Aiyesha is an occasional costumer and an even more occasional miniaturist. She enjoys learning new crafty things and spending time outdoors often backpacking, skiing, or kayaking.  She has worked as a data scientist and data engineer in the past.
     </div>
