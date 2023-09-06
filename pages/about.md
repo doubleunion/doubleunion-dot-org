@@ -117,6 +117,13 @@ Members can volunteer to be voting members, who read and decide on new member ap
   </div>
 </div>
 
+<div class='leader'>
+  <div class='details'>
+    <div class='name'>Syd Shafer <span class='pronouns'>(they / them)</span></div>
+    <div class='title'>Board Member</div>
+  </div>
+</div>
+
 #### Code of Conduct Committee
 
 *Contact: conduct@doubleunion.org*
