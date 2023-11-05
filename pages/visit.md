@@ -15,9 +15,9 @@ permalink: /visit/
 
 ### Location
 
-Double Union is at [77 Falmouth St in SOMA, San Francisco](https://www.google.com/maps/place/77+Falmouth+St,+San+Francisco,+CA+94107/@37.7792278,-122.4060461,17z/data=!3m1!4b1!4m5!3m4!1s0x80858080560ff21b:0xb11bae707088cee5!8m2!3d37.7792278!4d-122.4038574?shorturl=1).
+Double Union is at [650 Florida St Unit M, San Francisco](https://maps.app.goo.gl/JGSaEzRYWKjqMS3n8), within a courtyard.
 
-It's about 1/2 mile from the Powell BART station and 3/4 mile from the 4th & King Caltrain station.
+It's about 3/4 mile from the Powell BART station and 1 3/4 mile from the 4th & King Caltrain station.
 
 ### Access
 
@@ -36,7 +36,7 @@ We have requirements and recommendations to try to make DU relatively safe for m
 
 ### Accessibility
 
-77 Falmouth St is a ground-level retail-style space open to the sidewalk, no stairs or steps. It is flat inside. It has an ADA-accessible bathroom.
+Our space is a ground-level retail-style space open to the sidewalk, no stairs or steps. It has an ADA-accessible bathroom. The majority of the space is flat inside, and it has a few stairs to additional workspace.
 
 ### Conduct while in the space
 
