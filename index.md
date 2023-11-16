@@ -14,7 +14,7 @@ Members pay dues on a sliding-scale basis, between $0-100 per month, for unlimit
 
 ### Visiting Double Union: Classes and Events
 
-Double Union is [located in the South of Market neighborhood in San Francisco]({{ 'visit' | absolute_url }}).
+Double Union is [located in the Mission neighborhood in San Francisco]({{ 'visit' | absolute_url }}).
 
 Other than during events open to the public, Double Union visitors must be the invited guest of a member. Please do not visit without the express invitation of a member. Please do not invite guests unless you are a member. Guests may be any gender or age.
 

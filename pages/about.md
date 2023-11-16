@@ -39,7 +39,9 @@ In October 2013, the board signed a lease on a space in the Fog Building, at 333
 
 In October 2015, Double Union moved to a new space in Potrero Hill at 1250 Missouri St #111. It was a much larger space with two bathrooms and a full kitchen. In March 2020, we had to stop in-person use of our space except for one-person-at-a-time production of protective equipment for the pandemic, such as fabric masks and face shield structures. In September 2020, we ended our lease and moved our equipment into storage. Even before the pandemic, we had been planning to move because this space was relatively far from BART, which made it harder to access for many members.
 
-In September 2021, we rented a new space in SOMA at 77 Falmouth St, about a half mile from Powell BART. It's 775 sq ft, and for the first time we have a street-facing door instead of being nestled inside a larger building. We're excited to be organizing and setting up our space again.
+In September 2021, we rented a space in SOMA at 77 Falmouth St. This was the first time we had a street-facing door instead of being nestled inside a larger building.
+
+In November 2023, we moved to 650 Florida St #M in the Mission.
 
 ### Decision-making
 
