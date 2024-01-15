@@ -15,8 +15,8 @@ We try to make the culture at Double Union more welcoming than the world at larg
 * LGBTQIA-supportive (lesbian, gay, bisexual, trans, queer, intersex, asexual)
 * The majority of gender-associated differences are socialized, not biological
 * Feminism is good
-* [Meritocracy is a joke](http://www.garann.com/dev/2012/you-keep-using-that-word/)
-* [Intersectionality](http://geekfeminism.wikia.com/wiki/Intersectionality) is super important (credit: Kimberlé Crenshaw)
+* Meritocracy is a joke
+* Intersectionality is super important (credit: Kimberlé Crenshaw)
 * Racism is not okay
 * Classism is not okay
 * Prioritizing women and nonbinary people and our needs is perfectly awesome and needs no excuse
