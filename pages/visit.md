@@ -17,7 +17,7 @@ permalink: /visit/
 
 Double Union is at [650 Florida St Unit M, San Francisco](https://maps.app.goo.gl/JGSaEzRYWKjqMS3n8), within a courtyard.
 
-It's about 3/4 mile from the Powell BART station and 1 3/4 mile from the 4th & King Caltrain station.
+It's about 3/4 mile from the 16th St Mission BART station and 1 3/4 mile from the 4th & King Caltrain station.
 
 ### Access
 
