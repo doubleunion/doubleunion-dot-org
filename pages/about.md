@@ -79,28 +79,14 @@ Members can volunteer to be voting members, who read and decide on new member ap
 
 <div class='leader'>
   <img
-    src='{{ "/assets/images/board/nora-trapp.jpg" | relative_url }}'
-    alt='Nora Trapp'
-  />
-  <div class='details'>
-    <div class='name'>Nora Trapp <span class='pronouns'>(she / her)</span></div>
-    <div class='title'>Board Member, President</div>
-    <div class='bio'>
-      Nora is an engineer for the Signal Foundation where she helps develop open source privacy technology that protects rights, promotes free expression, and enables secure global communication. In her free time, you’ll find her conducting vegan experiments in the kitchen, enjoying fantasy/sci-fi media, and fueling her deep appreciation for nature. Nora previously served as Vice President for the Cape Cod Makers, a nonprofit she helped found to improve the local community by establishing maker spaces in schools and libraries as well as hosting the annual Cape Cod Mini Maker Faire.
-    </div>
-  </div>
-</div>
-
-<div class='leader'>
-  <img
     src='{{ "/assets/images/board/britta-gustafson.jpg" | relative_url }}'
     alt='Britta Gustafson'
   />
   <div class='details'>
     <div class='name'>Britta Gustafson <span class='pronouns'>(she / her)</span></div>
-    <div class='title'>Board Member, Secretary</div>
+    <div class='title'>Board Member, Secretary and President</div>
     <div class='bio'>
-      Britta has been a DU member since 2013. She works as a content strategist and product manager at A1M Solutions, a small government contractor that works with the Centers for Medicare and Medicaid Services. She is also a harpist, Wikipedia editor, and volunteer for a police accountability organization. As a trash enthusiast, she is hoping to learn to repair small electronics and refinish furniture when DU reopens in a new physical space.
+      Britta has been a DU member since 2013. She works as a content strategist and product manager at A1M Solutions, a small government contractor that works with the Centers for Medicare and Medicaid Services. She is also a harpist and Wikipedia editor. As a trash enthusiast, she is hoping to learn to repair small electronics and refinish furniture.
     </div>
   </div>
 </div>
@@ -116,13 +102,6 @@ Members can volunteer to be voting members, who read and decide on new member ap
     <div class='bio'>
       Aiyesha is an occasional costumer and an even more occasional miniaturist. She enjoys learning new crafty things and spending time outdoors often backpacking, skiing, or kayaking.  She has worked as a data scientist and data engineer in the past.
     </div>
-  </div>
-</div>
-
-<div class='leader'>
-  <div class='details'>
-    <div class='name'>Syd Shafer <span class='pronouns'>(they / them)</span></div>
-    <div class='title'>Board Member</div>
   </div>
 </div>
 
