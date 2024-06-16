@@ -23,7 +23,7 @@ It's about 3/4 mile from the 16th St Mission BART station and 1 3/4 mile from th
 
 Other than during events open to the public, Double Union visitors must be the invited guest of a member. Please do not visit without the express invitation of a member. Please do not invite guests unless you are a member. Guests may be any gender or age.
 
-We announce public events on [our blog]({{ site.urls.tumblr }}), [public mailing list]({{ site.urls.mailing_list }}), [Facebook]({{ site.urls.facebook }}), [Instagram]({{ site.urls.instagram }}), and on Twitter at [{{ site.twitter_username }}]({{ site.urls.twitter }}).
+We announce public events on [our blog]({{ site.urls.tumblr }}), [public mailing list]({{ site.urls.mailing_list }}), [Facebook]({{ site.urls.facebook }}), [Instagram]({{ site.urls.instagram }}), and [Mastodon]({{ site.urls.mastodon }}).
 
 ### COVID-19 risk mitigation
 
