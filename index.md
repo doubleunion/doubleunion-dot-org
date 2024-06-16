@@ -23,7 +23,7 @@ You can find out about upcoming events (and learn more about us) by following ou
 * [Blog]({{ site.urls.tumblr }})
 * [Instagram]({{ site.urls.instagram }})
 * Join our [announcements-only mailing list]({{ site.urls.mailing_list }}), which emails you a link to each new blog post. (This is a Google Groups page. Click "Join group" or "Subscribe to this group" to get emails.)
-* We sometimes also post to [Facebook]({{ site.urls.facebook }}) and [Twitter]({{ site.urls.twitter }}).
+* We sometimes also post to [Facebook]({{ site.urls.facebook }}) and [Mastodon]({{ site.urls.mastodon }}).
 
 ### Membership
 
