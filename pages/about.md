@@ -105,6 +105,16 @@ Members can volunteer to be voting members, who read and decide on new member ap
   </div>
 </div>
 
+<div class='leader'>
+  <div class='details'>
+    <div class='name'>Kayleigh Stevenson <span class='pronouns'>(she / her)</span></div>
+    <div class='title'>Board Member, President</div>
+    <div class='bio'>
+      Kayleigh is committed collected of craft-related hobbies who joined DU and the board in 2024. She has a day job in grants management at UCSF but would much rather be sewing her own clothes. Catch her outside on a sunny day exploring a new part of San Francisco on foot.
+    </div>
+  </div>
+</div>
+
 #### Code of Conduct Committee
 
 *Contact: conduct@doubleunion.org*
