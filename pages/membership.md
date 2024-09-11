@@ -56,7 +56,7 @@ We have had several members that we initially rejected, and then after we got to
 
 ### How do members use the space?
 
-To get a sense of what current members work on in the space, see our [visitor information]({{ 'visit' | absolute_url }}), [blog]({{ site.urls.tumblr }}), and [Twitter]({{ site.urls.twitter }}) to find out about events/projects and equipment, or come to some events!
+To get a sense of what current members work on in the space, see our [visitor information]({{ 'visit' | absolute_url }}), [blog]({{ site.urls.tumblr }}), and [Mastodon]({{ site.urls.mastodon }}) to find out about events/projects and equipment, or come to some events!
 
 People work on many things in the space, including adding lights to bicycles, zine making, electronics, public speaking, finding jobs, contributing to open source software, printmaking and textiles, 3D printing, CNC machining, fiber arts, sewing/serging, and reading in the library. We encourage coworking in the space, as long as it doesn't interfere with events or members using the space for its primary purpose: working on projects in a safe and welcoming environment.
 

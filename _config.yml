@@ -35,12 +35,10 @@ emails:
   join: join@doubleunion.org
   conduct: conduct@doubleunion.org
 
-twitter_username: '@doubleunionsf'
-
 urls:
   app: https://app.doubleunion.org
 
-  twitter: https://twitter.com/doubleunionsf
+  mastodon: https://sfba.social/@doubleunion
   tumblr: https://doubleunion.tumblr.com
   instagram: https://www.instagram.com/doubleunionsf
   facebook: https://www.facebook.com/doubleunion
