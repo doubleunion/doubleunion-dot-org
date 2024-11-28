@@ -34,9 +34,9 @@ Along with submitting an application, a qualification for membership is that you
 
 Double Union welcomes members with a broad variety of interests, skills, identities, backgrounds, and histories. What we have in common is a [set of values (base assumptions)]({{ 'base_assumptions' | absolute_url }}) and an interest in supporting each other and Double Union. We want to accept more members who share our values and our commitment to building a safer space together.
 
-We are a space for [nonbinary](https://transequality.org/issues/resources/understanding-non-binary-people-how-to-be-respectful-and-supportive) people and women (trans, cis, intersex, queer, straight, and not-fitting-into-those-labels). Membership is open to all women and nonbinary people, self-identified, including:
+We are a space for nonbinary people and women (trans, cis, intersex, queer, straight, and not-fitting-into-those-labels). Membership is open to all women and nonbinary people, self-identified, including:
 * Nonbinary people and women who are masculine-presenting or feminine-presenting to any degree (or both or neither)
-* [AMAB and AFAB](https://www.glbtrt.ala.org/news/archives/2845) nonbinary people
+* AMAB and AFAB nonbinary people
 * People who may only identify with these labels some of the time
 * People who are questioning and feel that these labels seem close enough
 
