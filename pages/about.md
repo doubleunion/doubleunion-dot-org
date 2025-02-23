@@ -79,20 +79,6 @@ Members can volunteer to be voting members, who read and decide on new member ap
 
 <div class='leader'>
   <img
-    src='{{ "/assets/images/board/britta-gustafson.jpg" | relative_url }}'
-    alt='Britta Gustafson'
-  />
-  <div class='details'>
-    <div class='name'>Britta Gustafson <span class='pronouns'>(she / her)</span></div>
-    <div class='title'>Board Member, Secretary and President</div>
-    <div class='bio'>
-      Britta has been a DU member since 2013. She works as a content strategist and product manager at A1M Solutions, a small government contractor that works with the Centers for Medicare and Medicaid Services. She is also a harpist and Wikipedia editor. As a trash enthusiast, she is hoping to learn to repair small electronics and refinish furniture.
-    </div>
-  </div>
-</div>
-
-<div class='leader'>
-  <img
     src='{{ "/assets/images/board/aiyesha-ma.jpg" | relative_url }}'
     alt='Aiyesha Ma'
   />
@@ -121,16 +107,6 @@ Members can volunteer to be voting members, who read and decide on new member ap
 
 <div class='leader'>
   <img
-    src='{{ "/assets/images/amy-bickerton.png" | relative_url }}'
-    alt='Amy Bickerton'
-  />
-  <div class='details'>
-    <div class='name'>Amy Bickerton <span class='pronouns'>(she / her)</span></div>
-  </div>
-</div>
-
-<div class='leader'>
-  <img
     src='{{ "/assets/images/eris-koleszar.jpg" | relative_url }}'
     alt='Eris Koleszar'
   />
@@ -142,12 +118,6 @@ Members can volunteer to be voting members, who read and decide on new member ap
 <div class='leader'>
   <div class='details'>
     <div class='name'>Jean Costello <span class='pronouns'>(she / her)</span></div>
-  </div>
-</div>
-
-<div class='leader'>
-  <div class='details'>
-    <div class='name'>Kona Goodhart <span class='pronouns'>(she / her)</span></div>
   </div>
 </div>
 
