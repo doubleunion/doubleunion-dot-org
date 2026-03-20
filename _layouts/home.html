@@ -22,14 +22,15 @@
           We work together to maintain a comfortable, welcoming environment that centers nonbinary people and women who are trans, cis, intersex, queer, straight, and not-fitting-into-those-labels, no matter what you look like. You don't have to prove you belong here.
         </p>
         <div class='home-banner-buttons'>
-          <a class='btn btn-primary btn-lg' href='{{ 'membership' | absolute_url }}'>
+          <a class='btn btn-primary btn-lg' href='{{ site.urls.eventbrite }}'>Upcoming Events</a>
+          <a class='btn btn-default btn-lg' href='{{ 'membership' | absolute_url }}'>
             {%- if site.accepting_application -%}
               Apply for Membership
             {%- else -%}
               Learn about Membership
             {%- endif -%}
           </a>
-          <a class='btn btn-default btn-lg' href='{{ 'support' | absolute_url }}'>Support Double Union</a>
+          <a class='btn btn-primary btn-lg' href='{{ 'support' | absolute_url }}'>Support Us</a>
         </div>
       </div>
     </div>
