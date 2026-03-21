@@ -272,6 +272,18 @@ fieldset[disabled] .btn-primary.focus {
   color: #337ab7;
   background-color: #ffffff;
 }
+// Plain table without borders or alternating row colors
+.plain-table, .plain-table th, .plain-table td, .plain-table tr {
+  border: none !important;
+  background-color: transparent !important;
+}
+.plain-table th, .plain-table td {
+  padding: 4px 8px !important;
+}
+.plain-table {
+  margin-bottom: 0 !important;
+}
+
 .btn-lg {
   padding: 10px 16px;
   font-size: 18px;
