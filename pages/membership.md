@@ -64,7 +64,26 @@ We have an active members-only mailing list where events, workshops, and meeting
 
 ### Membership benefits and responsibilities
 
-All members pay monthly membership dues (what you can afford, between $10 and $100 per month) or have $0 scholarship dues if paying would be a hardship.
+All members pay monthly membership dues (what you can afford, typically between $30 and $150 per month) or have $0 scholarship dues if paying would be a hardship. Ultimately, you know your situation best and we trust our members to decide the right dues level for themselves.
+
+<table class="plain-table">
+  <tr>
+    <th>Income</th>
+    <th>Suggested range</th>
+  </tr>
+  <tr>
+    <td>Below $100,000</td>
+    <td>$30-$75</td>
+  </tr>
+  <tr>
+    <td>$100,000-$200,000</td>
+    <td>$75-$100</td>
+  </tr>
+  <tr>
+    <td>$200,000+</td>
+    <td>Pay what you can over $100/month</td>
+  </tr>
+</table>
 
 After attending an orientation and agreeing to uphold member responsibilities, you get a key code that lets you use the space whenever you like.
 
