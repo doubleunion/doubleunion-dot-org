@@ -120,7 +120,7 @@ Members can volunteer to be voting members, who read and decide on new member ap
     <div class='name'>May Kalinu <span class='pronouns'>(she / her)</span></div>
     <div class='title'>Board Member, at Large</div>
     <div class='bio'>
-      May Kaliu is a content creator and matchmaker. She makes Tiktoks about important dating related videos specializing in more nuanced minority socioeconomic prespective. She is interested in learning how to screen print and 3d print. 
+      May Kaliu is a content creator and matchmaker. She makes Tiktoks about important dating related videos specializing in a more nuanced intersectional prespective. May joined Double Union in 2025 and helped manage the social media platform. In June of 2026, she joined the board. She is learning to 3D print and screen print at DU.  
     </div>
   </div>
 </div>
