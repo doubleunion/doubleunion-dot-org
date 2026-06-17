@@ -115,6 +115,17 @@ Members can volunteer to be voting members, who read and decide on new member ap
   </div>
 </div>
 
+<div class='leader'>
+  <div class='details'>
+    <div class='name'>May Kalinu <span class='pronouns'>(she / her)</span></div>
+    <div class='title'>Board Member, at Large</div>
+    <div class='bio'>
+      May Kaliu is a content creator and matchmaker. She makes Tiktoks about important dating related videos specializing in more nuanced minority socioeconomic prespective. She is interested in learning how to screen print and 3d print. 
+    </div>
+  </div>
+</div>
+
+
 #### Code of Conduct Committee
 
 *Contact: conduct@doubleunion.org*
